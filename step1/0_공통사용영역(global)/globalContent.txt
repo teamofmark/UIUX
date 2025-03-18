@@ -10,6 +10,14 @@ search
 Please enter your search term
 search
 
+[후원배너 - 금액]
+
+Make a difference with your support!
+Greenpeace operates solely on private donations to ensure political and financial independence. Your donations will help us tackle key environmental issues.
+
+one
+Support Us
+
 [하단영역 - footer]
 
 Greenpeace is an independent international environmental organization founded in 1971 that campaigns for the protection of the global environment and peace through peaceful means of non-violent direct action.

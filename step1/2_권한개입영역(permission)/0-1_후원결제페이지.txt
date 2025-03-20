@@ -1,0 +1,54 @@
+[후원양식 제목]
+Enter sponsorship information
+
+[부제목]
+Please enter your sponsor information
+
+[후원금액확인 - strong]
+[일시후원]
+Temporary sponsorship 70,000 won
+[정기후원]
+Regular sponsorship 20,000 won
+
+[문단 - 1]
+Your regular support is a great help in continuing Greenpeace's environmental campaigns!
+
+[입력부]
+name
+email
+[- 이하 입력부 숫자 전용(onlyNumber)]
+Mobile phone number
+Year of birth
+month
+Day
+
+[체크박스]
+Please check if the sponsor and cardholder are different.
+
+[부제목]
+Please enter your credit card information.
+
+[결제수단목록]
+VISA, MASTER, JCB
+
+[- 이하 입력부 숫자 전용(onlyNumber)]
+Credit card number
+Expiration date MM/YY
+
+[필수체크항목]
+(Required) Consent to collection and use of personal information
+[View details]
+(개인정보취급방침으로 이동)
+
+[실행버튼 - 결과로이동]
+Support Us
+
+[참조글]
+Secure Payment ・Credit card information is encrypted in SSL security mode.
+
+[뒤로가기 - backBTN : 어느곳에서나 이전]
+Change amount
+
+[슬로건]
+Greenpeace
+works only for the planet.

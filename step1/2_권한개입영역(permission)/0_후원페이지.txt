@@ -1,0 +1,36 @@
+
+[후원양식 제목]
+Select your donation
+Making a difference for the planet
+
+[문단 - 1]
+With your support, Greenpeace can protect the environment around the world.
+
+[옵션 선택 - tabUI]
+Regular Sponsorship
+Temporary Sponsorship
+
+[옵션목록 - 정기후원]
+15 thousand won
+20 thousand won
+30 thousand won
+
+[문단 - 2]
+Your regular donations are a great help in continuing Greenpeace's environmental campaigns. *Those who participate in regular donations will receive a 2025 digital calendar as a gift.
+
+[입력부 - 직접입력 / 정기 : 수정불가 / 일시 : 수정가능 - valid: 30,000원 이상]
+Direct Input
+15,000
+
+[입력값 오류 - invalid]
+The minimum donation amount is: 30,000 won
+
+[실행버튼 - 결과로이동]
+Support Us
+
+[참조글]
+Secure Payment ・Credit card information is encrypted in SSL security mode.
+
+[슬로건]
+Greenpeace
+works only for the planet.

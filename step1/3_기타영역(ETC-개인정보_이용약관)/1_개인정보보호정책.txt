@@ -170,32 +170,68 @@ Personal information handling consignment company
 
 
 Article 7 Matters concerning personal information management (viewing, correction, deletion, etc.)
+[내 순차 목록 - 1]
 Users and their legal representatives may view or correct their own registered personal information or that of their children under the age of 14 at any time, and may also request cancellation or deletion of their membership.
+
+[내 순차 목록 - 2]
 In order to view or correct personal information of a user or a child under the age of 14, click on “User Information Inquiry” and “Modify Basic Information” and go through the identity verification process to directly view, correct or withdraw your information. In addition, if you contact the Personal Information Manager in writing, by phone or by email, we will take action without delay.
+
+[내 순차 목록 - 3]
 If a user requests correction of errors in personal information, we will take action without delay. In addition, if incorrect personal information has already been provided to a third party, we will promptly notify the third party of the results of the correction process to ensure that the correction is made.
+
+[내 순차 목록 - 4]
 Such rights may be exercised through a legal representative of a child under the age of 14 or a proxy, such as a person authorized by the data subject. In this case, a power of attorney in the format of Appendix 11 of the Enforcement Regulations of the Personal Information Protection Act must be submitted.
+
+[내 순차 목록 - 5]
 The Foundation processes personal information that has been terminated or deleted at the request of the user or his/her legal representative in accordance with the provisions of “Greenpeace Foundation’s Retention and Use Period for Personal Information Collected” and processes it so that it cannot be viewed or used for any other purpose.
+
+[내 순차 목록 - 6]
 Requests to view, correct, cancel or delete personal information may be restricted according to relevant laws and regulations. In such cases, the Foundation will notify you within 10 days of receiving the request through the Personal Information Manager.
+
+
 Article 8 Matters concerning the installation, operation and refusal of automatic personal information collection devices
+
+[문단]
 The Foundation uses 'cookies' to store and retrieve user information from time to time. Cookies are small pieces of information that the server used to operate the Foundation's website sends to your browser and may be stored on the user's computer hard disk. The Foundation uses cookies for the following purposes.
 
+[내 순차 목록 - 1]
  Purpose of use of cookies, etc.: Analyze the frequency of access and visit times of members and non-members, identify users' tastes and areas of interest, track their footprints, and determine the extent of participation in various events and number of visits.
+
+[내 순차 목록 - 2]
  Cookie Installation/Operation and Refusal Users have the option to choose whether to install cookies. Therefore, by setting options in the web browser, you can allow all cookies, confirm each time a cookie is saved, or refuse to save all cookies.
+
+
 Article 9 Matters concerning measures to ensure the safety of personal information
+[문단]
 The Foundation is taking the following measures to ensure the security of personal information.
 
+[내 순차 목록 - 1]
 Administrative measures:  Establishment and implementation of internal management plan, regular personal information protection education, etc.
+
+[내 순차 목록 - 2]
 Technical measures:  Management of access rights to personal information processing systems, etc., control of unauthorized access from outside through security mail, personal certificates, and specific programs, installation of in-house PC security program (ESET) that encrypts unique identification information, etc.
+
+[내 순차 목록 - 3]
 Physical measures:  Access control (access rights management) and installation of locking devices in computer rooms, archives, etc.
+
 Article 10 Personal information management officer and contact information
+
+[문단 - 1]
 In order to protect users’ personal information and handle complaints related to personal information, the Foundation has designated the following departments and personal information managers.
 
+[표 - table]
 Data Protection Officer	Personal Information Protection Department
 name	Sze Pang Cheung	Department name	Sponsorship Department
 Position	Executive Director	contact	(02) 3144-1997
+
+[문단 - 2]
 Users may report any complaints related to personal information protection that arise while using the Foundation’s services to the Personal Information Manager or the department in charge. The Foundation will promptly and sufficiently respond to users’ reports. If you need to report or consult about other personal information infringements, please contact the following organizations.
 
+[비 순차 목록]
 Personal Information Infringement Report Center ( https://privacy.kisa.or.kr/  118 without area code)
+
 Information Protection Mark Certification Committee ( http://eprivacy.or.kr/  02-550-9531)
+
 Supreme Prosecutors' Office Online Civil Complaint Center ( http://www.spo.go.kr/  1301 without area code)
+
 National Police Agency Cyber ​​Terror Response Center ( http://cyberbureau.police.go.kr/  182 without area code)

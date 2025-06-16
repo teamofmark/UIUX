@@ -9,21 +9,28 @@ Not only is it home to over 700,000 species of life, but it is also essential to
 [슬라이더 - 자동 (autoSlider)]
 But now the ocean is more at risk than ever before, from plastic waste, destructive fishing, and rising sea temperatures. If we work together, we can save the ocean, its countless marine creatures, and its people.
 
+[카테고리 버튼 목록]
 Greenpeace activities
 Greenpeace is working to protect the oceans by calling for the establishment of marine sanctuaries, fighting destructive fishing, and campaigning to stop plastic pollution and the climate crisis.
 
 Marine protection
 Marine
 182 Post Updates
+
 Plastic Zero
 Marine
 147 Post Updates
+
 Eradication of illegal fishing
 Marine
 6 post updates
+
+[후원 - 서명]
 Join the change now
 Please join us in protecting the ocean now.
 Sign now
+
+[연대별 해온 업적]
 1970 ~ 1989
 Anti-whaling
 In 1975, the first whale conservation activity began when they stopped a Russian whaling ship in a rubber boat.
@@ -57,6 +64,7 @@ Government abandons submission of scientific whaling plan
 August 8, 2015
 Marine
 The designation of the Republic of Korea as an illegal fishing country and the escape story
+
 2020~
 June 1, 2021
 Marine

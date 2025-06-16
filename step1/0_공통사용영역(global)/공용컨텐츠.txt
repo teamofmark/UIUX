@@ -1,0 +1,46 @@
+[상단영역 - header]
+Greenpeace
+
+[GNB - Global Navigation Bar -> 공통메뉴]
+Marine protection
+Plastic Zero
+Eradication of illegal fishing
+Support Us log in 
+
+[상단영역 - searchPanel -> 검색패널]
+search - 라벨
+Please enter your search term
+search - 버튼
+
+[후원배너]
+Make a difference with your support!
+Greenpeace operates solely on individual donations to ensure political and financial independence. It is with your support that Greenpeace can tackle urgent environmental issues.
+
+won
+Support Us
+
+
+[하단영역 - footer]
+Greenpeace is an independent international environmental organization founded in 1971 that campaigns for the protection of the global environment and peace through peaceful means of non-violent direct action.
+
+Greenpeace Foundation
+Representative: Nam Boo-won
+Unique Number: 105-82-21567
+Address: 6th floor, 257 Hangang-daero, Yongsan-gu, Seoul
+
+Quick links
+outline
+Mission
+Behavior
+report
+people
+Ambassador
+Recruitment
+contact
+Frequently Asked Questions
+Financial Report
+Follow us
+    
+
+East Asia
+Privacy Policy Greenpeace Terms of Use copyright revenue Ministry of Public Administration and Security Unique Number Certificate

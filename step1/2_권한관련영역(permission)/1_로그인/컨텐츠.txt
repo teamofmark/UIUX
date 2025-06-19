@@ -1,0 +1,9 @@
+welcome!
+The sponsor page has been updated in September 2021. Even if you have previously logged in, you must re-authenticate yourself as a first-time sponsor on the new page . If you have already authenticated yourself as a first-time sponsor, you can now log in.
+
+If you received sponsor verification by mobile phone, please enter your mobile phone number. If you received it by email, please enter your email address. You will receive a verification number for logging in.
+
+The verification code will be received from the international number +044 7873 077777. If you have reported overseas text messages as spam, please unblock them.
+
+[입력부]
+Email address / Mobile phone number

@@ -126,38 +126,60 @@ Article 5 Provision of personal information to third parties
         [내 비순차목록 - 07]
         Obligation to prepare, store, and submit donation receipt issuance details (Article 112 of the Corporate Tax Act)
 
-
+[순차목록 - 06]
 Article 6. Consignment of collected personal information
-The foundation operates by entrusting personal information to external specialized companies as follows in order to provide donation deposit and withdrawal services, exercise member rights, provide new services to users, and promote campaigns.
-When concluding a consignment contract, the Foundation states in a contract or other document matters related to responsibilities such as prohibition of processing personal information for purposes other than the performance of the consigned work, technical and administrative protection measures, restrictions on re-consignment, management and supervision of the consignee, and compensation for damages in accordance with Article 25 of the Personal Information Protection Act, and supervises whether the consignee safely processes personal information. In the event that the content of the consignment work or the consignee changes, we will disclose it without delay through this personal information processing policy.
-Personal information handling consignment company
-• In case of entrusting membership service/email sending/signature collection work to a specialized company
+    [내 순차목록 - 01]
+    The foundation operates by entrusting personal information to external specialized companies as follows in order to provide donation deposit and withdrawal services, exercise member rights, provide new services to users, and promote campaigns.
+    [내 순차목록 - 02]
+    When concluding a consignment contract, the Foundation states in a contract or other document matters related to responsibilities such as prohibition of processing personal information for purposes other than the performance of the consigned work, technical and administrative protection measures, restrictions on re-consignment, management and supervision of the consignee, and compensation for damages in accordance with Article 25 of the Personal Information Protection Act, and supervises whether the consignee safely processes personal information. In the event that the content of the consignment work or the consignee changes, we will disclose it without delay through this personal information processing policy.
+    [내 순차목록 - 03]
+    Personal information handling consignment company
+    [내 비순차목록 - 01]
+    • In case of entrusting membership service/email sending/signature collection work to a specialized company
+        [내 비순차목록 - 01]
+        Recipient of personal information: Salesforce Inc.
+        [내 비순차목록 - 02]
+        Purpose of use of personal information of recipient: Management of membership information and donation payment information, sending emails, and collecting signatures
+        [내 비순차목록 - 03]
+        Personal information items provided: Membership information and donation payment information
+    [내 비순차목록 - 02]
+    • In case of entrusting to a PG company for donation payment approval and settlement
+        [내 비순차목록 - 01]
+        Recipient of personal information: KGI Inicis Co., Ltd.
+        [내 비순차목록 - 02]
+        Purpose of use of personal information of recipient: Approval and settlement of donation payment by credit card/account transfer
+        [내 비순차목록 - 03]
+        Personal information items provided: name, card name, card number, cardholder date of birth
+        [내 비순차목록 - 04]
+        Recipient of personal information: Nice Payments Co., Ltd.
+        [내 비순차목록 - 05]
+        Purpose of use of personal information of recipient: Approval and settlement of donation payment through CMS (automatic transfer)/credit card
+        [내 비순차목록 - 06]
+        Personal information items provided: name, bank name, account number, depositor's date of birth or name, card name, card number, cardholder's date of birth
+    [내 비순차목록 - 03]
+    • In case of entrustment for sending donation receipts, annual reports, and other mailings for sponsors
+        [내 비순차목록 - 01]
+        Recipient of personal information: DM Line Co., Ltd.
+        [내 비순차목록 - 02]
+        Purpose of use of personal information of recipient: Sending bulk mail
+        [내 비순차목록 - 03]
+        Personal information items provided: Name, address
+    [내 비순차목록 - 04]
+    • When entrusting telemarketing work to a professional company
+        [내 비순차목록 - 01]
+        Recipients of personal information: MetaM Co., Ltd., MPC Plus Co., Ltd., Sale Korea Net Co., Ltd., Helpers High Co., Ltd.
+        [내 비순차목록 - 02]
+        Purpose of use of personal information provided by the recipient: Telemarketing
+        [내 비순차목록 - 03]
+        Personal information items provided: Membership information and donation payment information
+    [내 비순차목록 - 05]
+    • In case of entrusting the DM message sending work to a specialized company
+        [내 비순차목록 - 01]
+        Recipient of personal information: SureM Co., Ltd.
+        [내 비순차목록 - 02]
+        Purpose of use of personal information of recipient: Sending Kakao messages and providing message sending history
 
-Recipient of personal information: Salesforce Inc.
-Purpose of use of personal information of recipient: Management of membership information and donation payment information, sending emails, and collecting signatures
-Personal information items provided: Membership information and donation payment information
-• In case of entrusting to a PG company for donation payment approval and settlement
-
-Recipient of personal information: KGI Inicis Co., Ltd.
-Purpose of use of personal information of recipient: Approval and settlement of donation payment by credit card/account transfer
-Personal information items provided: name, card name, card number, cardholder date of birth
-Recipient of personal information: Nice Payments Co., Ltd.
-Purpose of use of personal information of recipient: Approval and settlement of donation payment through CMS (automatic transfer)/credit card
-Personal information items provided: name, bank name, account number, depositor's date of birth or name, card name, card number, cardholder's date of birth
-• In case of entrustment for sending donation receipts, annual reports, and other mailings for sponsors
-
-Recipient of personal information: DM Line Co., Ltd.
-Purpose of use of personal information of recipient: Sending bulk mail
-Personal information items provided: Name, address
-• When entrusting telemarketing work to a professional company
-
-Recipients of personal information: MetaM Co., Ltd., MPC Plus Co., Ltd., Sale Korea Net Co., Ltd., Helpers High Co., Ltd.
-Purpose of use of personal information provided by the recipient: Telemarketing
-Personal information items provided: Membership information and donation payment information
-• In case of entrusting the DM message sending work to a specialized company
-
-Recipient of personal information: SureM Co., Ltd.
-Purpose of use of personal information of recipient: Sending Kakao messages and providing message sending history
+[순차목록 - 07]
 Article 7 Matters concerning personal information management (viewing, correction, deletion, etc.)
 Users and their legal representatives may view or correct their own registered personal information or that of their children under the age of 14 at any time, and may also request cancellation or deletion of their membership.
 In order to view or correct personal information of a user or a child under the age of 14, click on “User Information Inquiry” and “Modify Basic Information” and go through the identity verification process to directly view, correct or withdraw your information. In addition, if you contact the Personal Information Manager in writing, by phone or by email, we will take action without delay.

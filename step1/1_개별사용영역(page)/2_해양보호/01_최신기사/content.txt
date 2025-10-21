@@ -174,5 +174,5 @@ But the journey doesn't end here. Now, we must effectively implement the treaty 
 Greenpeace will continue to gather voices with citizens. And for this next chapter of change, we need your solidarity.
 [문단 - 06]
 Please walk with me.
-[버튼 - 후원서명]
+[버튼 - 후원 서명]
 Please join us in making a pledge and petition to protect the high seas.

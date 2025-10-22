@@ -1,0 +1,144 @@
+privacy policy
+(Revised on July 4, 2025) Greenpeace Foundation (hereinafter referred to as the “Foundation”) establishes and discloses the following personal information processing policy in accordance with Article 30 of the Personal Information Protection Act to protect the personal information of data subjects and to promptly and smoothly process complaints related thereto.
+
+The Foundation considers users' personal information important and complies with the personal information protection regulations of laws and regulations related to personal information that information and communication service providers must comply with, such as the "Act on Promotion of Information and Communications Network Utilization and Information Protection," the "Personal Information Protection Act," the "Telecommunications Business Act," and the "Communications Secrets Protection Act," as well as the personal information protection guidelines established by the Korea Communications Commission. The Foundation informs users of how and for what purpose the personal information they provide is used and what measures are taken to protect personal information through the personal information processing policy disclosed on the website. The history of this personal information processing policy can be checked here , and the contents may be changed due to revisions to government laws and guidelines or to provide better services, so please check the contents frequently when visiting the site. If the Foundation revises the personal information processing policy, it will be announced through a website notice (or individual notice).
+
+
+ 
+
+Article 1 Purpose of personal information processing
+The Foundation processes personal information for the following purposes. The personal information being processed will not be used for any other purposes. If the purpose of use changes, the Foundation will take necessary measures, including obtaining separate consent in accordance with Article 18 of the Personal Information Protection Act.
+
+Donation management: donation withdrawal, donation receipt issuance, donation history management, donation usage reporting, event participation, member notices and newsletters, content provision
+Membership registration and management: identity verification, donation/distribution participation history and member information management, and confirmation of intent to register or withdraw.
+Donation trend analysis: To promote a culture of donation, we analyze trends and statistics, and improve services by understanding access frequency.
+Development of new services and promotion of campaigns, use in advertising, development of new services and provision of customized services, provision of services and advertisements based on statistical characteristics, verification of service validity, provision of event and advertising information and participation opportunities, encouragement of signatories to convert to sponsorship members, encouragement of increase in sponsorship amount, encouragement of withdrawal of sponsorship from members, determination of access frequency, and statistical processing of service use
+Article 2 Personal information items collected and collection methods
+The Foundation collects essential personal information as follows to provide services such as campaign signatures, membership registration, regular and one-time donation applications, and smooth supporter consultation.
+
+Basic collection items
+Name, resident registration number, date of birth, gender, home address, mobile phone number, email, reason for signing up, access log record, service usage record, and legal representative information for those under 14 years of age
+Payment information (when applying for sponsorship)
+For automatic transfer: Bank name, account number, depositor name, depositor date of birth
+For credit cards: card number, expiration date, and cardholder's date of birth
+Personal information collection method
+Website membership registration, sponsorship application, and consultation inquiries
+Written application
+Phone consultation
+Email/Fax
+Service Use and Signature Page Signature
+Collect volunteer information through external online forms (e.g. Google Forms) and then transfer it to the internal system.
+Article 3 Personal information processing and retention period
+In principle, the Foundation destroys personal information without delay after the purpose of its collection and use has been achieved. However, the Foundation retains user information for the period stipulated by relevant laws and regulations, such as for the issuance of donation receipts, and for the purpose of requesting the resumption of donations from withdrawn members. 
+
+Preservation basis: Act on Consumer Protection in Electronic Commerce, etc., Personal Information Protection Act
+Retention period
+Records of contract or sponsorship withdrawal, etc.: 5 years (Article 6, Paragraph 3 of the Act on Consumer Protection in E-Commerce, etc. and Article 6, Paragraph 1, Subparagraph 2 of the Enforcement Decree of the same Act)
+Records of payment and supply of goods, etc.: 5 years (Article 6, Paragraph 3 of the Act on Consumer Protection in E-Commerce, etc. and Article 6, Paragraph 1, Subparagraph 3 of the Enforcement Decree of the same Act)
+Records of user complaints or dispute resolution: 3 years (Article 6, Paragraph 3 of the Act on Consumer Protection in E-Commerce, etc. and Article 6, Paragraph 1, Subparagraph 4 of the Enforcement Decree of the same Act)
+Records of identity verification: 6 months (Act on Promotion of Information and Communications Network Utilization and Information Protection, etc.)
+Website visit history: 3 months (Article 15-2 of the Communications Secrets Protection Act and Article 41, Paragraph 2, Subparagraph 2 of the Enforcement Decree of the same Act)
+Personal information for requesting resumption of sponsorship (Article 15 of the Personal Information Protection Act)
+Name, date of birth, mobile phone number, and the above information of the legal representative for those under 14 years of age: 10 years
+Email address, donation payment information, resident registration number, home address, and the above information of the legal representative for those under 14 years of age: 5 years
+Article 4 Procedures and methods for destroying personal information
+Destruction procedures
+After the purpose is achieved, the user's information is transferred to a separate database (separate file cabinet in the case of paper) and stored for a certain period of time according to internal policies and other relevant laws for information protection reasons (see retention and use period) and then destroyed.
+Personal information transferred to a separate database will not be used for any purpose other than those stipulated in Article 3 of the Personal Information Processing Policy and the law.
+How to destroy
+Personal information stored in file format is deleted using technical methods that render the records unrecoverable.
+Personal information printed on paper is destroyed by shredding or incineration.
+Article 5 Provision of Personal Information to Third Parties
+In principle, the Foundation does not provide users' personal information to external parties. The Foundation processes personal information only within the scope specified in Article 1 (Purpose of Personal Information Processing). Personal information is only provided to third parties when required by Articles 17 and 18 of the Personal Information Protection Act, including with the consent of the data subject or in accordance with special legal provisions.
+The Foundation provides personal information to third parties in the following cases.
+If users have given prior consent at the request of the Foundation
+When there is a request from an investigative agency in accordance with the provisions of the law or in accordance with the procedures and methods stipulated by the law for investigative purposes.
+Rules on the Establishment and Supervision of Non-Profit Corporations under the Ministry of Public Administration and Security and its Subordinate Agencies (Article 8 of the same Act) In cases where it is unavoidable to inspect and supervise the affairs of non-profit corporations pursuant to Article 37 of the Civil Act, the competent authority may order the submission of related documents, ledgers, or other reference materials, or inspect the status of affairs and assets.
+Documents related to settlement of accounts and reports on assets contributed to public interest corporations (Article 41 of the Enforcement Decree of the Gift Tax Act)
+Obligation to undergo external accounting audit (Article 50 of the Inheritance Tax Act, Article 3 of the Act on External Audit of Stock Companies)
+Obligation to disclose financial statements (Article 50 of the Inheritance Tax Act)
+Obligation to prepare, store, and submit donation receipt issuance details (Article 112 of the Corporate Tax Act)
+Article 6. Entrustment of processing of collected personal information
+The Foundation entrusts the processing of personal information to external specialized companies as follows to provide donation deposit and withdrawal services, enforce member rights, provide new services to users, and promote campaigns.
+When entering into a consignment contract, the Foundation, in accordance with Article 25 of the Personal Information Protection Act, specifies in the contract or other document matters regarding the prohibition of processing personal information for purposes other than those entrusted, technical and administrative safeguards, restrictions on re-entrustment, management and supervision of the consignee, and liability for damages. The Foundation also supervises the consignee to ensure the safe processing of personal information. Any changes to the details of the consignment or the consignee will be promptly disclosed through this Personal Information Processing Policy.
+Personal information processing consignment company
+When entrusting membership services/signature collection and email delivery to a specialized company
+Trustee: Salesforce
+Purpose of personal information use: Management of membership information and donation payment information, collection of signatures
+Personal information items entrusted: Membership information and donation payment information
+When entrusting to a specialized company for integrated management of member information
+Trustee: Civis Analytics, Inc.
+Purpose of personal information use: Integrated management of member information
+Personal information items entrusted: Membership information and donation payment information
+When entrusting to a PG company for donation payment approval and settlement
+Trustee: KG Inicis Co., Ltd.
+Purpose of personal information use: Approval and settlement of donation payments via credit card/bank transfer
+Personal information items entrusted: card number, expiration date, cardholder date of birth
+Trustee: NICE Information & Communication Co., Ltd.
+Purpose of personal information use: Approval and settlement of donation payments via CMS (automatic transfer)/credit card.
+Personal information items to be entrusted
+For CMS: Bank name, account number, depositor name, depositor date of birth
+For credit card payments: card number, expiration date, and cardholder's date of birth
+When entrusted with sending donation receipts, annual reports, and other mailing materials for supporters
+Trustee: DM Line Co., Ltd.
+Purpose of personal information use: Sending bulk mail
+Personal information items entrusted: Sponsor's name and address
+When entrusting telemarketing work to a professional company
+Trustee: MPC Plus Co., Ltd., Sale Korea Net Co., Ltd., Helpers High Co., Ltd.
+Purpose of use of personal information: Telemarketing
+Personal information items entrusted: Membership information and donation payment information
+When entrusting the DM message sending work to a specialized company
+Trustee: SureM Co., Ltd.
+Purpose of personal information use: Sending KakaoTalk messages and providing message sending history.
+Article 7 International transfer of personal information
+In principle, personal information cannot be transferred overseas. However, in exceptional cases, where entrustment of processing and storage of personal information is necessary for the conclusion and performance of a contract with the data subject, and matters stipulated by law are disclosed/notified through the personal information processing policy or email, personal information may be transferred overseas.
+The Foundation transfers sponsors' personal information overseas as follows to conclude and fulfill contracts with sponsors. 
+Personal information items transferred: name, mobile phone number, landline phone number, email address, postal address, encrypted last digits of resident registration number, account number, and partially masked card number.
+Countries, times, and methods to which your personal information is transferred
+Salesforce Inc. (CRM and payment system)
+Country: Japan
+Timing: Immediately after data entry or sponsorship
+Method: Real-time transmission via encrypted API connection
+Civis Analytics (database for integrated management)
+Country: United States
+Timing: Batch transmission every day at 1:00 AM KST
+How to: Transfer Encrypted Files
+Name of the person receiving personal information (in the case of a corporation, its name and contact information)
+Salesforce Inc. ( www.salesforce.com )
+Civis Analytics ( www.civisanalytics.com )
+Purpose of use of personal information and retention/use period of personal information by the recipient
+Purpose: Supporter communication, regular donation processing, supporter management, fundraising operations, campaign analysis.
+Retention and Usage Period: In accordance with our Privacy Policy, we retain your personal information for up to five years from your last donation. However, certain personal information (such as name, mobile phone number, address, and donation history) is retained for up to ten years for the purpose of issuing donation receipts in accordance with the Income Tax Act. This means that email addresses, payment details, and other non-essential information will be deleted after five years of inactivity. All other personal information will be deleted ten years after your last donation, unless otherwise requested by the donor. 
+How to Opt-Out of Personal Data Transfer, Procedures, and Effects of Opt-Out: This international transfer is necessary for the execution and execution of the sponsorship agreement. If you decline the international transfer, your donation will be unavailable. If you wish to opt-out of the international transfer, please contact the Personal Information Protection Officer in writing, by phone, or by email. 
+ 
+
+Article 8 Matters concerning personal information management (viewing, correction, deletion, etc.)
+Users and their legal representatives may view or correct their own registered personal information or that of children under the age of 14 at any time, and may request cancellation of membership or deletion of personal information.
+To view or correct personal information of users or children under the age of 14, click "User Information Inquiry" or "Modify Basic Information." To cancel your membership (withdraw consent), click "Request Membership Withdrawal." After completing the identity verification process, you can directly view, correct, or cancel your membership. Alternatively, contact the Personal Information Protection Officer in writing, by phone, or by email, and we will take action without delay.
+If a user requests correction of errors in their personal information, we will take action without delay. Furthermore, if incorrect personal information has already been provided to a third party, we will promptly notify the third party of the results of the correction process to ensure the correction is made.
+These rights may be exercised through a legal representative of a child under the age of 14 or a proxy authorized by the data subject. In such cases, a power of attorney in the format of Appendix 11 of the Enforcement Decree of the Personal Information Protection Act must be submitted.
+Personal information that has been canceled or deleted at the request of the user or his/her legal representative is processed in accordance with Article 3 and is processed so that it cannot be viewed or used for any other purpose.
+Requests to view, correct, cancel, or delete personal information may be restricted by relevant laws and regulations. In such cases, the Foundation will send a notification within 10 days of receiving the request through the Personal Information Manager.
+Article 9. Matters concerning the installation, operation, and refusal of automatic personal information collection devices.
+The Foundation uses "cookies" to store and retrieve user information. Cookies are small pieces of information sent to your browser by the server that operates the Foundation's website and may also be stored on your computer's hard drive. The Foundation uses cookies for the following purposes:
+
+Purpose of use: To analyze the frequency of access and visit times of members and non-members, to identify users' preferences and areas of interest, to track their footprints, and to determine the extent of participation in various events and the number of visits.
+Users have the option to choose whether to install cookies . Therefore, by setting options in their web browser, they can allow all cookies, request confirmation each time a cookie is saved, or reject all cookies.
+Article 10 Matters concerning measures to ensure the security of personal information
+The Foundation is taking the following measures to ensure the security of personal information.
+
+Administrative measures: Establishment and implementation of internal management plans, regular personal information protection training, etc.
+Technical measures: Access rights management for personal information processing systems, etc.; control of unauthorized access from outside through secure mail, personal certificates, and specific programs; encryption of unique identification information, etc.; installation of in-house PC security programs (ESET).
+Physical measures: Access control (access rights management) and installation of locking devices in computer rooms, archives, etc.
+Article 11 Personal Information Management Officer and Contact Information
+To protect users' personal information and handle complaints related to personal information, the Foundation has designated the following departments and personal information protection officers.
+
+Personal Information Protection Officer	Personal Information Protection Department
+name	Sze Pang Cheung	Department name	Sponsorship Department
+Position	Executive Director	contact	(02) 3144-1997
+Users may report any privacy-related complaints arising while using the Foundation's services to the Personal Information Protection Manager or the relevant department. The Foundation will provide a prompt and sufficient response to your report. For other inquiries or reports regarding personal information infringements, please contact the following organizations.
+
+Personal Information Infringement Report Center ( https://privacy.kisa.or.kr/ 118 without area code)
+Information Protection Mark Certification Committee ( http://eprivacy.or.kr/ 02-550-9531)
+Supreme Prosecutors' Office Online Civil Complaint Center ( http://www.spo.go.kr/ 1301 without area code)
+National Police Agency Cyber ​​Terror Response Center ( http://cyberbureau.police.go.kr/ 182 without area code)

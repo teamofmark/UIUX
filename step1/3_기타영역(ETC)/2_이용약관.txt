@@ -86,63 +86,128 @@ Article 4 Validity and Changes to Terms of Use
     [내 비순차 목록 - 04]
     If a member agrees to the terms and conditions of this Agreement, these Terms and Conditions will take precedence over the Foundation's service provision, the member's use of the Service, donations, and contributions. Matters not specified in these Terms and Conditions shall be governed by applicable laws and regulations, if applicable. Otherwise, general practice shall apply.
 
-
+[내 순차 목록 - 05]
 Article 5 Rights and Obligations of the Foundation
-The Foundation has the following rights and obligations with respect to its members:
+    [문단 - 01]
+    The Foundation has the following rights and obligations with respect to its members:
+    [내 순차 목록 - 01]
+    The Foundation notifies its members of the accumulation and distribution of donations by posting them on the Foundation's website and in its business reports or by mail.
+    [내 순차 목록 - 02]
+    The Foundation provides information on various projects related to its members and opportunities to participate in events.
+    [내 순차 목록 - 03]
+    The Foundation issues receipts for donations to members in accordance with relevant laws and regulations.
+    [내 순차 목록 - 04]
+    The Foundation must process member opinions related to the operation and management of the service through appropriate procedures.
+    [내 순차 목록 - 05]
+    The Foundation protects members' personal information in accordance with its privacy policy.
 
-The Foundation notifies its members of the accumulation and distribution of donations by posting them on the Foundation's website and in its business reports or by mail.
-The Foundation provides information on various projects related to its members and opportunities to participate in events.
-The Foundation issues receipts for donations to members in accordance with relevant laws and regulations.
-The Foundation must process member opinions related to the operation and management of the service through appropriate procedures.
-The Foundation protects members' personal information in accordance with its privacy policy.
+[내 순차 목록 - 06]
 Article 6 Members' Rights and Obligations
-Members can receive information about various projects carried out by the Foundation.
-Members can receive guidance on the funds they wish to donate and how they will be distributed.
-Members can participate in activities such as donation and distribution events provided by the Foundation.
-Members can donate through services such as providing expertise to carry out the foundation's unique purpose projects.
-Members can make donations through various payment systems provided by the foundation (CMS, credit card, bank transfer, direct debit, mobile phone, etc.).
-Members may not use the Foundation's brand, logo, or services for personal profit or commercial purposes without the Foundation's prior consent, and the Foundation is not responsible for the consequences of such activities. Furthermore, if such activities result in or are expected to result in damages to the Foundation, the member is liable for damages to the Foundation. The Foundation may restrict the member's use of the service and seek compensation through legal procedures.
+    [내 순차 목록 - 01]
+    Members can receive information about various projects carried out by the Foundation.
+    [내 순차 목록 - 02]
+    Members can receive guidance on the funds they wish to donate and how they will be distributed.
+    [내 순차 목록 - 03]
+    Members can participate in activities such as donation and distribution events provided by the Foundation.
+    [내 순차 목록 - 04]
+    Members can donate through services such as providing expertise to carry out the foundation's unique purpose projects.
+    [내 순차 목록 - 05]
+    Members can make donations through various payment systems provided by the foundation (CMS, credit card, bank transfer, direct debit, mobile phone, etc.).
+    [내 순차 목록 - 06]
+    Members may not use the Foundation's brand, logo, or services for personal profit or commercial purposes without the Foundation's prior consent, and the Foundation is not responsible for the consequences of such activities. Furthermore, if such activities result in or are expected to result in damages to the Foundation, the member is liable for damages to the Foundation. The Foundation may restrict the member's use of the service and seek compensation through legal procedures.
+
+[내 순차 목록 - 07]
 Article 7 Loss of membership
-Membership will be lost in the following cases:
+    [문단 - 01]
+    Membership will be lost in the following cases:
 
-When a member expresses his/her intention to withdraw from membership
-If you plan or execute the use of the service for the purpose of harming the public interest
-If you use someone else's name
-In case of violation of other related laws or business conditions and terms of use established by the foundation
+    [내 순차 목록 - 01]
+    When a member expresses his/her intention to withdraw from membership
+    [내 순차 목록 - 02]
+    If you plan or execute the use of the service for the purpose of harming the public interest
+    [내 순차 목록 - 03]
+    If you use someone else's name
+    [내 순차 목록 - 04]
+    In case of violation of other related laws or business conditions and terms of use established by the foundation
+
+[내 순차 목록 - 08]
 Article 8 Personal Information Processing
-The Foundation protects the personal information of its members and posts the details under the name of “Personal Information Handling Policy” on the main screen of the Foundation website and on the personal information management page.
-The main contents mentioned in the 'Privacy Policy' are as follows.
-Personal information management officer and person in charge
-Personal information collection method and content
-Reasons for collecting personal information and purposes of use
-Personal information retention and use period
-When providing personal information to a third party
-Access, correction, and withdrawal of personal information
-Other matters regarding personal information protection
-Article 9 Changes and suspension of services
-Unless there are special circumstances, the Foundation will ensure that members can use the service continuously and stably.
-The service may be subject to change or discontinuation due to circumstances of the foundation.
-The Foundation will notify members of any significant changes, such as service interruptions.
-Article 10 Disclaimer
-The Foundation is exempt from responsibility for providing services to members in the following cases:
 
-In case the Foundation cannot provide services due to natural disasters, war, or other similar force majeure.
-When a period telecommunications service provider suspends or fails to normally provide electricity, telecommunications, or transportation services.
-When normal business operations are difficult due to reasons such as maintenance, replacement, regular inspection, or construction of service facilities.
-Service disruption due to member's fault
-If a member provides inaccurate sponsor information
+    [내 순차 목록 - 01]
+    The Foundation protects the personal information of its members and posts the details under the name of “Personal Information Handling Policy” on the main screen of the Foundation website and on the personal information management page.
+
+    [내 순차 목록 - 02]
+    The main contents mentioned in the 'Privacy Policy' are as follows.
+        [내 비순차 목록 - 01]
+        Personal information management officer and person in charge
+        [내 비순차 목록 - 02]
+        Personal information collection method and content
+        [내 비순차 목록 - 03]
+        Reasons for collecting personal information and purposes of use
+        [내 비순차 목록 - 04]
+        Personal information retention and use period
+        [내 비순차 목록 - 05]
+        When providing personal information to a third party
+        [내 비순차 목록 - 06]
+        Access, correction, and withdrawal of personal information
+        [내 비순차 목록 - 07]
+        Other matters regarding personal information protection
+
+
+[내 순차 목록 - 09]
+Article 9 Changes and suspension of services
+    [내 순차 목록 - 01]
+    Unless there are special circumstances, the Foundation will ensure that members can use the service continuously and stably.
+    [내 순차 목록 - 02]
+    The service may be subject to change or discontinuation due to circumstances of the foundation.
+    [내 순차 목록 - 03]
+    The Foundation will notify members of any significant changes, such as service interruptions.
+
+[내 순차 목록 - 10]
+Article 10 Disclaimer
+    [문단 - 01]
+    The Foundation is exempt from responsibility for providing services to members in the following cases:
+
+    [내 순차 목록 - 01]
+    In case the Foundation cannot provide services due to natural disasters, war, or other similar force majeure.
+    [내 순차 목록 - 02]
+    When a period telecommunications service provider suspends or fails to normally provide electricity, telecommunications, or transportation services.
+    [내 순차 목록 - 03]
+    When normal business operations are difficult due to reasons such as maintenance, replacement, regular inspection, or construction of service facilities.
+    [내 순차 목록 - 04]
+    Service disruption due to member's fault
+    [내 순차 목록 - 05]
+    If a member provides inaccurate sponsor information
+
+[내 순차 목록 - 11]
 Article 11 Return of Sponsorship Funds
+[문단 - 01]
 Donations made to the Foundation by members cannot be returned due to the donor's fault or simple change of mind, except in exceptional cases such as when the Foundation is at fault or receives a return order from the competent authority.
 
-Foundation's responsibility (example)
-If the Foundation makes an error in the member's personal information, financial information, pledge amount, or withdrawal date during the member's donation payment process.
-If the foundation fails to provide guidance to members regarding repayment of unpaid donations.
-If the Foundation makes an error regarding the pledged amount or withdrawal date during the withdrawal process.
-If the Foundation fails to receive a member's request for cancellation of sponsorship
-Sponsor's fault (example)
-If a member updates their CMS account information through the Payinfo system, automatic withdrawals of donations will resume.
-If a member requests a refund of a previously paid donation due to changes in financial circumstances, dissatisfaction with the campaign, or a simple change of heart.
+    [내 순차 목록 - 01]
+    Foundation's responsibility (example)
+        [내 비순차 목록 - 01]
+        If the Foundation makes an error in the member's personal information, financial information, pledge amount, or withdrawal date during the member's donation payment process.
+        [내 비순차 목록 - 02]
+        If the foundation fails to provide guidance to members regarding repayment of unpaid donations.
+        [내 비순차 목록 - 03]
+        If the Foundation makes an error regarding the pledged amount or withdrawal date during the withdrawal process.
+        [내 비순차 목록 - 04]
+        If the Foundation fails to receive a member's request for cancellation of sponsorship
+
+    [내 순차 목록 - 02]
+    Sponsor's fault (example)
+        [내 비순차 목록 - 01]
+        If a member updates their CMS account information through the Payinfo system, automatic withdrawals of donations will resume.
+        [내 비순차 목록 - 02]
+        If a member requests a refund of a previously paid donation due to changes in financial circumstances, dissatisfaction with the campaign, or a simple change of heart.
+
+[내 순차 목록 - 12]
 Article 12 Dispute Resolution and Jurisdiction
-If any dispute or objection arises regarding these Terms and Conditions, or if either party wishes to terminate or cancel these Terms and Conditions, both parties shall make every effort to resolve the matter amicably.
-If the dispute cannot be resolved amicably through mutual agreement, both parties shall resolve the dispute through litigation in accordance with the laws of the Republic of Korea, with the court with jurisdiction over the location of the Foundation as the competent court.
-[Supplementary Provisions] These Terms and Conditions shall apply from January 1, 2023.
+
+    [내 순차 목록 - 01]
+    If any dispute or objection arises regarding these Terms and Conditions, or if either party wishes to terminate or cancel these Terms and Conditions, both parties shall make every effort to resolve the matter amicably.
+    [내 순차 목록 - 02]
+    If the dispute cannot be resolved amicably through mutual agreement, both parties shall resolve the dispute through litigation in accordance with the laws of the Republic of Korea, with the court with jurisdiction over the location of the Foundation as the competent court.
+    [문단 - 01]
+    [Supplementary Provisions] These Terms and Conditions shall apply from January 1, 2023.

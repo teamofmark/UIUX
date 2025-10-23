@@ -92,89 +92,179 @@ Article 4 Procedures and methods for destroying personal information
         [내 순차 목록 - 02]
         Personal information printed on paper is destroyed by shredding or incineration.
 
-    
+[내 순차 목록 - 05]
 Article 5 Provision of Personal Information to Third Parties
-In principle, the Foundation does not provide users' personal information to external parties. The Foundation processes personal information only within the scope specified in Article 1 (Purpose of Personal Information Processing). Personal information is only provided to third parties when required by Articles 17 and 18 of the Personal Information Protection Act, including with the consent of the data subject or in accordance with special legal provisions.
-The Foundation provides personal information to third parties in the following cases.
-If users have given prior consent at the request of the Foundation
-When there is a request from an investigative agency in accordance with the provisions of the law or in accordance with the procedures and methods stipulated by the law for investigative purposes.
-Rules on the Establishment and Supervision of Non-Profit Corporations under the Ministry of Public Administration and Security and its Subordinate Agencies (Article 8 of the same Act) In cases where it is unavoidable to inspect and supervise the affairs of non-profit corporations pursuant to Article 37 of the Civil Act, the competent authority may order the submission of related documents, ledgers, or other reference materials, or inspect the status of affairs and assets.
-Documents related to settlement of accounts and reports on assets contributed to public interest corporations (Article 41 of the Enforcement Decree of the Gift Tax Act)
-Obligation to undergo external accounting audit (Article 50 of the Inheritance Tax Act, Article 3 of the Act on External Audit of Stock Companies)
-Obligation to disclose financial statements (Article 50 of the Inheritance Tax Act)
-Obligation to prepare, store, and submit donation receipt issuance details (Article 112 of the Corporate Tax Act)
+
+    [내 비순차 목록 - 01]
+    In principle, the Foundation does not provide users' personal information to external parties. The Foundation processes personal information only within the scope specified in Article 1 (Purpose of Personal Information Processing). Personal information is only provided to third parties when required by Articles 17 and 18 of the Personal Information Protection Act, including with the consent of the data subject or in accordance with special legal provisions.
+
+    [내 비순차 목록 - 02]
+    The Foundation provides personal information to third parties in the following cases.
+        [내 순차 목록 - 01]
+        If users have given prior consent at the request of the Foundation
+        [내 순차 목록 - 02]
+        When there is a request from an investigative agency in accordance with the provisions of the law or in accordance with the procedures and methods stipulated by the law for investigative purposes.
+        [내 순차 목록 - 03]
+        Rules on the Establishment and Supervision of Non-Profit Corporations under the Ministry of Public Administration and Security and its Subordinate Agencies (Article 8 of the same Act) In cases where it is unavoidable to inspect and supervise the affairs of non-profit corporations pursuant to Article 37 of the Civil Act, the competent authority may order the submission of related documents, ledgers, or other reference materials, or inspect the status of affairs and assets.
+        [내 순차 목록 - 04]
+        Documents related to settlement of accounts and reports on assets contributed to public interest corporations (Article 41 of the Enforcement Decree of the Gift Tax Act)
+        [내 순차 목록 - 05]
+        Obligation to undergo external accounting audit (Article 50 of the Inheritance Tax Act, Article 3 of the Act on External Audit of Stock Companies)
+        [내 순차 목록 - 06]
+        Obligation to disclose financial statements (Article 50 of the Inheritance Tax Act)
+        [내 순차 목록 - 07]
+        Obligation to prepare, store, and submit donation receipt issuance details (Article 112 of the Corporate Tax Act)
+
+[내 순차 목록 - 06]
 Article 6. Entrustment of processing of collected personal information
-The Foundation entrusts the processing of personal information to external specialized companies as follows to provide donation deposit and withdrawal services, enforce member rights, provide new services to users, and promote campaigns.
-When entering into a consignment contract, the Foundation, in accordance with Article 25 of the Personal Information Protection Act, specifies in the contract or other document matters regarding the prohibition of processing personal information for purposes other than those entrusted, technical and administrative safeguards, restrictions on re-entrustment, management and supervision of the consignee, and liability for damages. The Foundation also supervises the consignee to ensure the safe processing of personal information. Any changes to the details of the consignment or the consignee will be promptly disclosed through this Personal Information Processing Policy.
-Personal information processing consignment company
-When entrusting membership services/signature collection and email delivery to a specialized company
-Trustee: Salesforce
-Purpose of personal information use: Management of membership information and donation payment information, collection of signatures
-Personal information items entrusted: Membership information and donation payment information
-When entrusting to a specialized company for integrated management of member information
-Trustee: Civis Analytics, Inc.
-Purpose of personal information use: Integrated management of member information
-Personal information items entrusted: Membership information and donation payment information
-When entrusting to a PG company for donation payment approval and settlement
-Trustee: KG Inicis Co., Ltd.
-Purpose of personal information use: Approval and settlement of donation payments via credit card/bank transfer
-Personal information items entrusted: card number, expiration date, cardholder date of birth
-Trustee: NICE Information & Communication Co., Ltd.
-Purpose of personal information use: Approval and settlement of donation payments via CMS (automatic transfer)/credit card.
-Personal information items to be entrusted
-For CMS: Bank name, account number, depositor name, depositor date of birth
-For credit card payments: card number, expiration date, and cardholder's date of birth
-When entrusted with sending donation receipts, annual reports, and other mailing materials for supporters
-Trustee: DM Line Co., Ltd.
-Purpose of personal information use: Sending bulk mail
-Personal information items entrusted: Sponsor's name and address
-When entrusting telemarketing work to a professional company
-Trustee: MPC Plus Co., Ltd., Sale Korea Net Co., Ltd., Helpers High Co., Ltd.
-Purpose of use of personal information: Telemarketing
-Personal information items entrusted: Membership information and donation payment information
-When entrusting the DM message sending work to a specialized company
-Trustee: SureM Co., Ltd.
-Purpose of personal information use: Sending KakaoTalk messages and providing message sending history.
+    [내 순차 목록 - 01]
+    The Foundation entrusts the processing of personal information to external specialized companies as follows to provide donation deposit and withdrawal services, enforce member rights, provide new services to users, and promote campaigns.
+    [내 순차 목록 - 02]
+    When entering into a consignment contract, the Foundation, in accordance with Article 25 of the Personal Information Protection Act, specifies in the contract or other document matters regarding the prohibition of processing personal information for purposes other than those entrusted, technical and administrative safeguards, restrictions on re-entrustment, management and supervision of the consignee, and liability for damages. The Foundation also supervises the consignee to ensure the safe processing of personal information. Any changes to the details of the consignment or the consignee will be promptly disclosed through this Personal Information Processing Policy.
+    [내 순차 목록 - 03]
+    Personal information processing consignment company
+
+    [내 비순차 목록 - 01]
+    When entrusting membership services/signature collection and email delivery to a specialized company
+        [내 비순차 목록 - 01]
+        Trustee: Salesforce
+        [내 비순차 목록 - 02]
+        Purpose of personal information use: Management of membership information and donation payment information, collection of signatures
+        [내 비순차 목록 - 03]
+        Personal information items entrusted: Membership information and donation payment information
+
+    [내 비순차 목록 - 02]
+    When entrusting to a specialized company for integrated management of member information
+        [내 비순차 목록 - 01]
+        Trustee: Civis Analytics, Inc.
+        [내 비순차 목록 - 02]
+        Purpose of personal information use: Integrated management of member information
+        [내 비순차 목록 - 03]
+        Personal information items entrusted: Membership information and donation payment information
+
+    [내 비순차 목록 - 03]
+    When entrusting to a PG company for donation payment approval and settlement
+        [내 비순차 목록 - 01]
+        Trustee: KG Inicis Co., Ltd.
+        [내 비순차 목록 - 02]
+        Purpose of personal information use: Approval and settlement of donation payments via credit card/bank transfer
+        [내 비순차 목록 - 03]
+        Personal information items entrusted: card number, expiration date, cardholder date of birth
+        [내 비순차 목록 - 04]
+        Trustee: NICE Information & Communication Co., Ltd.
+        [내 비순차 목록 - 05]
+        Purpose of personal information use: Approval and settlement of donation payments via CMS (automatic transfer)/credit card.
+        [내 비순차 목록 - 06]
+        Personal information items to be entrusted
+            [내 비순차 목록 - 01]
+            For CMS: Bank name, account number, depositor name, depositor date of birth
+            [내 비순차 목록 - 02]
+            For credit card payments: card number, expiration date, and cardholder's date of birth
+
+    [내 비순차 목록 - 04]
+    When entrusted with sending donation receipts, annual reports, and other mailing materials for supporters
+        [내 비순차 목록 - 01]
+        Trustee: DM Line Co., Ltd.
+        [내 비순차 목록 - 02]
+        Purpose of personal information use: Sending bulk mail
+        [내 비순차 목록 - 03]
+        Personal information items entrusted: Sponsor's name and address
+
+    [내 비순차 목록 - 05]
+    When entrusting telemarketing work to a professional company
+        [내 비순차 목록 - 01]
+        Trustee: MPC Plus Co., Ltd., Sale Korea Net Co., Ltd., Helpers High Co., Ltd.
+        [내 비순차 목록 - 02]
+        Purpose of use of personal information: Telemarketing
+        [내 비순차 목록 - 03]
+        Personal information items entrusted: Membership information and donation payment information
+
+    [내 비순차 목록 - 06]
+    When entrusting the DM message sending work to a specialized company
+        [내 비순차 목록 - 01]
+        Trustee: SureM Co., Ltd.
+        [내 비순차 목록 - 02]
+        Purpose of personal information use: Sending KakaoTalk messages and providing message sending history.
+
+[내 순차 목록 - 07]
 Article 7 International transfer of personal information
-In principle, personal information cannot be transferred overseas. However, in exceptional cases, where entrustment of processing and storage of personal information is necessary for the conclusion and performance of a contract with the data subject, and matters stipulated by law are disclosed/notified through the personal information processing policy or email, personal information may be transferred overseas.
-The Foundation transfers sponsors' personal information overseas as follows to conclude and fulfill contracts with sponsors. 
-Personal information items transferred: name, mobile phone number, landline phone number, email address, postal address, encrypted last digits of resident registration number, account number, and partially masked card number.
-Countries, times, and methods to which your personal information is transferred
-Salesforce Inc. (CRM and payment system)
-Country: Japan
-Timing: Immediately after data entry or sponsorship
-Method: Real-time transmission via encrypted API connection
-Civis Analytics (database for integrated management)
-Country: United States
-Timing: Batch transmission every day at 1:00 AM KST
-How to: Transfer Encrypted Files
-Name of the person receiving personal information (in the case of a corporation, its name and contact information)
-Salesforce Inc. ( www.salesforce.com )
-Civis Analytics ( www.civisanalytics.com )
-Purpose of use of personal information and retention/use period of personal information by the recipient
-Purpose: Supporter communication, regular donation processing, supporter management, fundraising operations, campaign analysis.
-Retention and Usage Period: In accordance with our Privacy Policy, we retain your personal information for up to five years from your last donation. However, certain personal information (such as name, mobile phone number, address, and donation history) is retained for up to ten years for the purpose of issuing donation receipts in accordance with the Income Tax Act. This means that email addresses, payment details, and other non-essential information will be deleted after five years of inactivity. All other personal information will be deleted ten years after your last donation, unless otherwise requested by the donor. 
-How to Opt-Out of Personal Data Transfer, Procedures, and Effects of Opt-Out: This international transfer is necessary for the execution and execution of the sponsorship agreement. If you decline the international transfer, your donation will be unavailable. If you wish to opt-out of the international transfer, please contact the Personal Information Protection Officer in writing, by phone, or by email. 
- 
 
+    [내 순차 목록 - 01]
+    In principle, personal information cannot be transferred overseas. However, in exceptional cases, where entrustment of processing and storage of personal information is necessary for the conclusion and performance of a contract with the data subject, and matters stipulated by law are disclosed/notified through the personal information processing policy or email, personal information may be transferred overseas.
+
+    [내 순차 목록 - 02]
+    The Foundation transfers sponsors' personal information overseas as follows to conclude and fulfill contracts with sponsors.
+        
+        [내 비순차 목록 - 01]
+        Personal information items transferred: name, mobile phone number, landline phone number, email address, postal address, encrypted last digits of resident registration number, account number, and partially masked card number.
+        [내 비순차 목록 - 02]
+        Countries, times, and methods to which your personal information is transferred
+            [내 비순차 목록 - 01]
+            Salesforce Inc. (CRM and payment system)
+                [내 비순차 목록 - 01]
+                Country: Japan
+                [내 비순차 목록 - 02]
+                Timing: Immediately after data entry or sponsorship
+                [내 비순차 목록 - 03]
+                Method: Real-time transmission via encrypted API connection
+            [내 비순차 목록 - 02]
+            Civis Analytics (database for integrated management)
+                [내 비순차 목록 - 01]
+                Country: United States
+                [내 비순차 목록 - 02]
+                Timing: Batch transmission every day at 1:00 AM KST
+                [내 비순차 목록 - 03]
+                How to: Transfer Encrypted Files
+        [내 비순차 목록 - 03]
+        Name of the person receiving personal information (in the case of a corporation, its name and contact information)
+            [내 비순차 목록 - 01]
+            Salesforce Inc. ( www.salesforce.com )
+            [내 비순차 목록 - 02]
+            Civis Analytics ( www.civisanalytics.com )
+        [내 비순차 목록 - 04]
+        Purpose of use of personal information and retention/use period of personal information by the recipient
+            [내 비순차 목록 - 01]
+            Purpose: Supporter communication, regular donation processing, supporter management, fundraising operations, campaign analysis.
+            [내 비순차 목록 - 02]
+            Retention and Usage Period: In accordance with our Privacy Policy, we retain your personal information for up to five years from your last donation. However, certain personal information (such as name, mobile phone number, address, and donation history) is retained for up to ten years for the purpose of issuing donation receipts in accordance with the Income Tax Act. This means that email addresses, payment details, and other non-essential information will be deleted after five years of inactivity. All other personal information will be deleted ten years after your last donation, unless otherwise requested by the donor. 
+        [내 비순차 목록 - 05]
+        How to Opt-Out of Personal Data Transfer, Procedures, and Effects of Opt-Out: This international transfer is necessary for the execution and execution of the sponsorship agreement. If you decline the international transfer, your donation will be unavailable. If you wish to opt-out of the international transfer, please contact the Personal Information Protection Officer in writing, by phone, or by email. 
+    
+[내 순차 목록 - 08]
 Article 8 Matters concerning personal information management (viewing, correction, deletion, etc.)
-Users and their legal representatives may view or correct their own registered personal information or that of children under the age of 14 at any time, and may request cancellation of membership or deletion of personal information.
-To view or correct personal information of users or children under the age of 14, click "User Information Inquiry" or "Modify Basic Information." To cancel your membership (withdraw consent), click "Request Membership Withdrawal." After completing the identity verification process, you can directly view, correct, or cancel your membership. Alternatively, contact the Personal Information Protection Officer in writing, by phone, or by email, and we will take action without delay.
-If a user requests correction of errors in their personal information, we will take action without delay. Furthermore, if incorrect personal information has already been provided to a third party, we will promptly notify the third party of the results of the correction process to ensure the correction is made.
-These rights may be exercised through a legal representative of a child under the age of 14 or a proxy authorized by the data subject. In such cases, a power of attorney in the format of Appendix 11 of the Enforcement Decree of the Personal Information Protection Act must be submitted.
-Personal information that has been canceled or deleted at the request of the user or his/her legal representative is processed in accordance with Article 3 and is processed so that it cannot be viewed or used for any other purpose.
-Requests to view, correct, cancel, or delete personal information may be restricted by relevant laws and regulations. In such cases, the Foundation will send a notification within 10 days of receiving the request through the Personal Information Manager.
+    [내 순차 목록 - 01]
+    Users and their legal representatives may view or correct their own registered personal information or that of children under the age of 14 at any time, and may request cancellation of membership or deletion of personal information.
+    [내 순차 목록 - 02]
+    To view or correct personal information of users or children under the age of 14, click "User Information Inquiry" or "Modify Basic Information." To cancel your membership (withdraw consent), click "Request Membership Withdrawal." After completing the identity verification process, you can directly view, correct, or cancel your membership. Alternatively, contact the Personal Information Protection Officer in writing, by phone, or by email, and we will take action without delay.
+    [내 순차 목록 - 03]
+    If a user requests correction of errors in their personal information, we will take action without delay. Furthermore, if incorrect personal information has already been provided to a third party, we will promptly notify the third party of the results of the correction process to ensure the correction is made.
+    [내 순차 목록 - 04]
+    These rights may be exercised through a legal representative of a child under the age of 14 or a proxy authorized by the data subject. In such cases, a power of attorney in the format of Appendix 11 of the Enforcement Decree of the Personal Information Protection Act must be submitted.
+    [내 순차 목록 - 05]
+    Personal information that has been canceled or deleted at the request of the user or his/her legal representative is processed in accordance with Article 3 and is processed so that it cannot be viewed or used for any other purpose.
+    [내 순차 목록 - 06]
+    Requests to view, correct, cancel, or delete personal information may be restricted by relevant laws and regulations. In such cases, the Foundation will send a notification within 10 days of receiving the request through the Personal Information Manager.
+
+[내 순차 목록 - 09]
 Article 9. Matters concerning the installation, operation, and refusal of automatic personal information collection devices.
-The Foundation uses "cookies" to store and retrieve user information. Cookies are small pieces of information sent to your browser by the server that operates the Foundation's website and may also be stored on your computer's hard drive. The Foundation uses cookies for the following purposes:
+    [문단 - 01]
+    The Foundation uses "cookies" to store and retrieve user information. Cookies are small pieces of information sent to your browser by the server that operates the Foundation's website and may also be stored on your computer's hard drive. The Foundation uses cookies for the following purposes:
+    [내 비순차 목록 - 01]
+    Purpose of use: To analyze the frequency of access and visit times of members and non-members, to identify users' preferences and areas of interest, to track their footprints, and to determine the extent of participation in various events and the number of visits.
+    [내 비순차 목록 - 02]
+    Users have the option to choose whether to install cookies . Therefore, by setting options in their web browser, they can allow all cookies, request confirmation each time a cookie is saved, or reject all cookies.
 
-Purpose of use: To analyze the frequency of access and visit times of members and non-members, to identify users' preferences and areas of interest, to track their footprints, and to determine the extent of participation in various events and the number of visits.
-Users have the option to choose whether to install cookies . Therefore, by setting options in their web browser, they can allow all cookies, request confirmation each time a cookie is saved, or reject all cookies.
+[내 순차 목록 - 10]
 Article 10 Matters concerning measures to ensure the security of personal information
-The Foundation is taking the following measures to ensure the security of personal information.
+    [문단 - 01]
+    The Foundation is taking the following measures to ensure the security of personal information.
+    [내 비순차 목록 - 01]
+    Administrative measures: Establishment and implementation of internal management plans, regular personal information protection training, etc.
+    [내 비순차 목록 - 02]
+    Technical measures: Access rights management for personal information processing systems, etc.; control of unauthorized access from outside through secure mail, personal certificates, and specific programs; encryption of unique identification information, etc.; installation of in-house PC security programs (ESET).
+    [내 비순차 목록 - 03]
+    Physical measures: Access control (access rights management) and installation of locking devices in computer rooms, archives, etc.
 
-Administrative measures: Establishment and implementation of internal management plans, regular personal information protection training, etc.
-Technical measures: Access rights management for personal information processing systems, etc.; control of unauthorized access from outside through secure mail, personal certificates, and specific programs; encryption of unique identification information, etc.; installation of in-house PC security programs (ESET).
-Physical measures: Access control (access rights management) and installation of locking devices in computer rooms, archives, etc.
 Article 11 Personal Information Management Officer and Contact Information
 To protect users' personal information and handle complaints related to personal information, the Foundation has designated the following departments and personal information protection officers.
 

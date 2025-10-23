@@ -265,15 +265,26 @@ Article 10 Matters concerning measures to ensure the security of personal inform
     [내 비순차 목록 - 03]
     Physical measures: Access control (access rights management) and installation of locking devices in computer rooms, archives, etc.
 
+[내 순차 목록 - 11]
 Article 11 Personal Information Management Officer and Contact Information
-To protect users' personal information and handle complaints related to personal information, the Foundation has designated the following departments and personal information protection officers.
 
-Personal Information Protection Officer	Personal Information Protection Department
-name	Sze Pang Cheung	Department name	Sponsorship Department
-Position	Executive Director	contact	(02) 3144-1997
-Users may report any privacy-related complaints arising while using the Foundation's services to the Personal Information Protection Manager or the relevant department. The Foundation will provide a prompt and sufficient response to your report. For other inquiries or reports regarding personal information infringements, please contact the following organizations.
+    [문단 - 01]
+    To protect users' personal information and handle complaints related to personal information, the Foundation has designated the following departments and personal information protection officers.
 
-Personal Information Infringement Report Center ( https://privacy.kisa.or.kr/ 118 without area code)
-Information Protection Mark Certification Committee ( http://eprivacy.or.kr/ 02-550-9531)
-Supreme Prosecutors' Office Online Civil Complaint Center ( http://www.spo.go.kr/ 1301 without area code)
-National Police Agency Cyber ​​Terror Response Center ( http://cyberbureau.police.go.kr/ 182 without area code)
+    [표 - table]
+    Personal Information | 	Personal Information Protection
+    Protection Officer | Department
+    name	| Sze Pang Cheung | Department name	| Sponsorship Department
+    Position |  Executive Director | contact  |   (02) 3144-1997
+
+    [문단 - 02]
+    Users may report any privacy-related complaints arising while using the Foundation's services to the Personal Information Protection Manager or the relevant department. The Foundation will provide a prompt and sufficient response to your report. For other inquiries or reports regarding personal information infringements, please contact the following organizations.
+    
+    [내 비순차 목록 - 01]
+    Personal Information Infringement Report Center ( https://privacy.kisa.or.kr/ 118 without area code)
+    [내 비순차 목록 - 02]
+    Information Protection Mark Certification Committee ( http://eprivacy.or.kr/ 02-550-9531)
+    [내 비순차 목록 - 03]
+    Supreme Prosecutors' Office Online Civil Complaint Center ( http://www.spo.go.kr/ 1301 without area code)
+    [내 비순차 목록 - 04]
+    National Police Agency Cyber ​​Terror Response Center ( http://cyberbureau.police.go.kr/ 182 without area code)

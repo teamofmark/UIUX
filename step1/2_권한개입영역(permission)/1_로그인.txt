@@ -16,6 +16,7 @@ The verification code will be sent to the international number +044 7873 077777.
 Email address / mobile phone number
 
 [버튼 - 인증번호 송출]
+
 ----------------------------------
 [입력부 - 가상]
 Verification Code

@@ -27,7 +27,7 @@ Verification Code
 [상단제목 - 교체]
 Congratulations.
 
-your     is complete.
+your    is complete.
 
 [버튼 - 메인페이지로 가기]
 [go to greenpeace Main Page]

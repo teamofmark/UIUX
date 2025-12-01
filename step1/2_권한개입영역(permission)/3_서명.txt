@@ -9,6 +9,9 @@ Rising sea temperatures, marine debris, overfishing, and now the threat of deep-
 Greenpeace is documenting this crisis unfolding around the world and listening closely to the ocean's signals.  
 What signals are the world's oceans sending us right now?
 
+[부제 - 02]
+Signals from the sea
+
 [내 순차 목록 - 01]
 #1. Dying white coral
 [이미지 - 01]
@@ -24,7 +27,7 @@ Did you know that in addition to plastic, plastic waste, and chemicals, noise al
 [이미지 - 03]
 The deep sea remains a largely unknown world to humanity, to the point where it's said we know more about the far side of the moon than the depths of the ocean. Massive mining equipment deployed in the deep sea will excavate the seabed, causing irreparable damage to the deep-sea ecosystem for hundreds of years. The deep sea is not a resource for exploitation; it's a last bastion, a vital necessity for human survival.
 
-[부제 - 02]
+[부제 - 03]
 Marine protected areas can protect larger areas of the ocean.
 [문단 - 01]
 Since 2005, Greenpeace has been campaigning for a global ocean treaty to designate 30% of the high seas as marine protected areas by 2030. Building on this commitment, Greenpeace is currently working to expand marine protected areas where commercial activities are restricted.

@@ -14,7 +14,7 @@ When checking the origin of a clean, fresh-looking seafood at a slick supermarke
 [문단 - 02]
 However, over the past two years, Korea's distant-water fishing industry has been in deep crisis, with the US and EU designating Korea as an IUU country and potential IUU country. The lifting of these designations by the US and EU in February and April 2015, respectively, has been a significant development, with significant legal revisions and reforms aimed at fostering the development of the distant-water fishing industry. Throughout this process, Greenpeace has consistently called on Korea to prevent illegal fishing.
 
-[부제 - 01]
+[순차 목록 - 01 - 부제]
 #1. Illegal fishing by Korean deep-sea fishing vessels in various waters around the world is revealed.
     [문단 - 01]
     <a href="https://www.greenpeace.org/korea/news/feature-story/2/2014/419893/">Engaging in illegal, unreported, and unregulated (IUU) fishing</a>
@@ -30,7 +30,7 @@ However, over the past two years, Korea's distant-water fishing industry has bee
     made the situation even more shocking.
 
     [이미지 - 01]
-    [부제 - 02]
+    [순차 목록 - 02 - 부제]
     #2. International criticism and eventual designation as an illegal fishing country.
     [문단 - 01]
     South Korea, a "deep-sea power" with 342 fishing vessels
@@ -56,7 +56,7 @@ However, over the past two years, Korea's distant-water fishing industry has bee
     <a href="https://www.greenpeace.org/korea/news/press-release/oceans/2013/388618/">including trade sanctions on fisheries products within the US and EU, and port bans on all vessels from those countries</a>
     . Being designated as an IUU country by the EU carries the added risk of breaching existing fisheries agreements. The resulting economic losses are truly enormous.
 
-    [부제 - 03]
+    [순차 목록 - 03 - 부제]
     #3. Greenpeace launches campaign to help Korea escape illegal fishing.
     [문단 - 01]
     The first step to solving a problem is to accurately recognize it. In April 2013, Greenpeace published a report exposing the inappropriate illegal fishing practices of South Korean deep-sea fishing vessels. This report reaffirmed to the public and the international community that illegal fishing in South Korea is a widespread practice and a serious problem that must be taken seriously. This also marked the beginning of a call for reform from the South Korean government and the South Korean deep-sea fishing industry.
@@ -81,7 +81,7 @@ However, over the past two years, Korea's distant-water fishing industry has bee
     <a href="https://www.greenpeace.org/korea/multimedia/publications/2015/oceans/opinion-on-distant-water-fisheries/">opinions on revisions to subordinate statutes</a>
     to ensure the proper implementation of the Distant Water Fisheries Development Act , Greenpeace has consistently offered solutions to help Korea eradicate illegal fishing and move toward legislation that meets international standards for sustainable fisheries.
 
-    [부제 - 04]
+    [순차 목록 - 04 - 부제]
     #4. The Revised Distant Sea Fisheries Development Act and the Removal of Illegal Fishing Country Designations: Remaining Challenges
     [문단 - 01]
     <a href="https://www.greenpeace.org/korea/news/press-release/oceans/2015/436862/">The Distant Water Fisheries Development Act, promulgated in January 2015, is the first step in a long journey to structurally improve the distant water fisheries industry, which still follows the same model from half a century ago.</a>

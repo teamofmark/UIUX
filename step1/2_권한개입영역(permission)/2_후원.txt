@@ -68,151 +68,146 @@ Support us
 [문단 - 설명]
 Your credit card information is encrypted and protected using SSL security mode.
 
-
+[부제 - 01]
 Please protect me before it's too late
-tw-forest04-problem3-GP0249G
+
+[문단 사진 구성 - 01]
+[이미지 - 01]
 Collapsing nature
 Forests are disappearing, oceans are filled with trash, and wildlife is going extinct.
 
-GP0STUJXE_Low res with credit line (800px)
+[문단 사진 구성 - 02]
+[이미지 - 02]
 Plastic waste covering the world
 Behind plastic pollution, there are still companies that refuse to take responsibility. Even at this very moment, excessive plastic is being produced and discarded.
 
-GP0SU2IPT_Low res with credit line (800px)
+[문단 사진 구성 - 03]
+[이미지 - 03]
 People in need of help
 From elderly couples losing their homes to wildfires to vulnerable people losing their lives to torrential rains, those least responsible for the climate crisis are bearing the brunt of the damage.
 
+[부제 - 02]
 Why do we need your support?
-Climate change
-1.5
-°C rise in average temperature
-Since 1950, the Earth has been warming faster than ever before, leading to more frequent extreme weather events such as heat waves and heavy rain.
 
-plastic waste
-730
-Ten thousand tons of plastic waste
-South Korea already produced 7.3 million tons of plastic waste in 2022 alone, and the problem is becoming a growing crisis.
+    [문단 사진 구성 - 01]
+    [이미지 - 04]
+    1.5
+    °C rise in average temperature
+    Since 1950, the Earth has been warming faster than ever before, leading to more frequent extreme weather events such as heat waves and heavy rain.
 
-Marine protected areas
-3
-Marine protected areas less than %
-Even the oceans, which are most crucial for responding to the climate crisis, are only institutionally protected in a very small portion.
+    [문단 사진 구성 - 02]
+    [이미지 - 05]
+    plastic waste
+    730
+    Ten thousand tons of plastic waste
+    South Korea already produced 7.3 million tons of plastic waste in 2022 alone, and the problem is becoming a growing crisis.
 
-We need you to save the Earth.
+    [문단 사진 구성 - 03]
+    [이미지 - 06]
+    3
+    Marine protected areas less than %
+    Even the oceans, which are most crucial for responding to the climate crisis, are only institutionally protected in a very small portion.
 
-Support us
+    [문단 - 01]
+    We need you to save the Earth.
+    
+    [버튼 - 후원하기]
+    Support us
+
+[부제 - 03]
 Change starts now, with you.
 
+[슬라이더 - 01 자동 / 자동재생과 제어버튼 충돌 = stopAutoOnClick필요함.]
 
+    [슬라이드 - 01]
+    The decision to ban whaling in Antarctica following Greenpeace's anti-whaling campaign in 1994.
 
-The decision to ban whaling in Antarctica following Greenpeace's anti-whaling campaign in 1994.
+    [슬라이드 - 02]
+    The 2024
+    ruling by the Constitutional Court of Korea on the unconstitutionality of the Carbon Neutrality Basic Act marks the first climate policy lawsuit in Asia led by citizens and Greenpeace.
 
+    [슬라이드 - 03]
+    Greenpeace's 20-year campaign to pass the UN Global Ocean Treaty in 2023
 
-The 2024
+    [슬라이드 - 04]
+    Samsung's 2018 Greenpeace campaign pledged to use 100% renewable energy.
 
-ruling by the Constitutional Court of Korea on the unconstitutionality of the Carbon Neutrality Basic Act marks the first climate policy lawsuit in Asia led by citizens and Greenpeace.
-
-
-
-
-Greenpeace's 20-year campaign to pass the UN Global Ocean Treaty in 2023
-
-
-
-
-Samsung's 2018 Greenpeace campaign pledged to use 100% renewable energy.
-
-
-
-
-The decision to ban whaling in Antarctica following Greenpeace's anti-whaling campaign in 1994.
-
-
-The 2024
-
-ruling by the Constitutional Court of Korea on the unconstitutionality of the Carbon Neutrality Basic Act marks the first climate policy lawsuit in Asia led by citizens and Greenpeace.
-
+[부제 - 04 - 패럴랙스 = pallarax Banner]
 This Earth Needs You
-Greenpeace, an international environmental organization, is at the forefront of environmental protection.
-However, the planet remains in peril.
-Your donations are a significant help in addressing the urgent climate crisis and protecting vulnerable populations, animals, and nature.
-Support us
+    [문단 - 01]
+    Greenpeace, an international environmental organization, is at the forefront of environmental protection.
+    However, the planet remains in peril.
+    Your donations are a significant help in addressing the urgent climate crisis and protecting vulnerable populations, animals, and nature.
+   [버튼 - 후원하기] 
+    Support us
+
+[부제 - 05]
 The change your support makes
-monthly_3
-30,000 won per month
-We are carrying out long-term projects to prevent the climate crisis and protect forests and oceans.
+    [문단 사진 구성 - 01]
+    [이미지 - 07]
+    We are carrying out long-term projects to prevent the climate crisis and protect forests and oceans.
 
-monthly_1
-20,000 won per month
-We protect nature and prevent corporate environmental destruction through field research, environmental policy proposals, and citizen action.
+    [문단 사진 구성 - 02]
+    [이미지 - 08]
+    20,000 won per month
+    We protect nature and prevent corporate environmental destruction through field research, environmental policy proposals, and citizen action.
 
-monthly_1_1
-15,000 won per month
-We raise awareness of environmental issues and launch campaigns for a sustainable environment.
+    [문단 사진 구성 - 03]
+    [이미지 - 09]
+    15,000 won per month
+    We raise awareness of environmental issues and launch campaigns for a sustainable environment.
 
-one_off
-One-time sponsorship
-While a one-time donation can make a big difference, recurring donations create deeper and more lasting change.
+    [문단 사진 구성 - 04]
+    [이미지 - 10]
+    One-time sponsorship
+    While a one-time donation can make a big difference, recurring donations create deeper and more lasting change.
 
-Support us
-slide 4 of 3
-donor3
-Jang Bitna
-For a better me and the planet
-As I get older, immediate convenience and my own interests become more important, and I am grateful that Greenpeace's activities have helped me reflect on myself.
+    [버튼 - 후원하기]
+    Support us
 
-GP_donor_1_1
-Lim Gyeong-seon
-Heart for children
-Meeting a child made me want to share and protect even the smallest things together. I started sponsoring in 2018. I hope it's not too late.
+[슬라이더 - 02 자동 / 커서오버시 중지 필요 - autoHover]
 
-GP_donor_2
-Yoo Hyun-sang
-Things you can do little by little for a long time
-I've seen Greenpeace activists bravely step up. As ordinary citizens, it can be a bit overwhelming to know what we can do. I've decided to support them for a long time, even if it's just a little bit, because I can help.
+    [슬라이드 - 01]
+    Jang Bitna
+    For a better me and the planet
+    As I get older, immediate convenience and my own interests become more important, and I am grateful that Greenpeace's activities have helped me reflect on myself.
 
-donor3
-Jang Bitna
-For a better me and the planet
-As I get older, immediate convenience and my own interests become more important, and I am grateful that Greenpeace's activities have helped me reflect on myself.
+    [슬라이드 - 02]
+    Lim Gyeong-seon
+    Heart for children
+    Meeting a child made me want to share and protect even the smallest things together. I started sponsoring in 2018. I hope it's not too late.
 
-GP_donor_1_1
-Lim Gyeong-seon
-Heart for children
-Meeting a child made me want to share and protect even the smallest things together. I started sponsoring in 2018. I hope it's not too late.
+    [슬라이드 - 03]
+    Yoo Hyun-sang
+    Things you can do little by little for a long time
+    I've seen Greenpeace activists bravely step up. As ordinary citizens, it can be a bit overwhelming to know what we can do. I've decided to support them for a long time, even if it's just a little bit, because I can help.
 
-Support us
+    [버튼 - 후원하기]
+    Support us
+
+[부제 - 06]
 Greenpeace Sponsorship FAQs
+
+[컴포넌트 - 아코디언 / accComponent]
 Q1. When will the first donation be paid after the sponsorship is completed?
+    A.
+    Your first donation will be processed immediately upon completion of your sponsorship. Regular donation payments are due on the 10th of each month. If payment is not received, repayments will be made on the 15th, 20th, and 27th of the same month.
+
 Q2. What happens if the payment date falls on a public holiday or weekend?
+    A.
+    [비 순차 목록 - 01]
+    If your automatic transfer falls on a public holiday or weekend, payment will be processed on the next business day. (*If the day before the payment date falls on a Seoul office holiday, payment may be delayed by one day.)
+    [비 순차 목록 - 02]
+    Credit card payments are processed on the payment date, regardless of whether it falls on a holiday or not, but may be delayed to the next business day during system processing.
+
 Q3. Can minors also sponsor?
+    A.
+    Sponsors under the age of 14 may make donations with the consent of their legal representative. Minors between the ages of 14 and 19 may only make regular donations of up to 30,000 won and one-time donations of up to 300,000 won.
+
 Q4. If I make a donation, can I receive a year-end tax deduction?
+    A.
+    You can receive year-end tax deduction benefits. After signing up, please be sure to enter your personal information for year-end tax settlement. To maintain its independence, Greenpeace does not accept government or corporate sponsorship.
+
 Q5. How do I inquire about sponsorship?
-d5624abb857f4f0aff44ee3c63273e5b
-Your first donation will be processed immediately upon completion of your sponsorship. Regular donation payments are due on the 10th of each month. If payment is not received, repayments will be made on the 15th, 20th, and 27th of the same month.
-
-For automatic transfers, if the payment date falls on a public holiday or weekend, payment will be processed on the following business day. (*If the Seoul office holiday falls on the day before the payment date, payment may be delayed by one day.)
-
-For credit card payments, payments are processed on the due date, regardless of holidays. However, payments may be processed on the next business day during system processing.
-
-Home
-Privacy Policy
-Copyright
-Contact Us
-About Greenpeace
-
-Greenpeace Foundation
-Unique Number: 105-82-21567
-
-Sponsors under the age of 14 may make donations with the consent of their legal representative. Minors between the ages of 14 and 19 may only make regular donations of up to 30,000 won and one-time donations of up to 300,000 won.
-
-You can receive year-end tax deduction benefits. After registering as a sponsor, please be sure to enter your personal information to ensure a smooth year-end tax settlement.
-To maintain financial and political independence, Greenpeace does not accept government or corporate sponsorship.
-
-For other inquiries, please refer to the FAQ
-. For further inquiries, please contact the Sponsorship Management Team
-at: help.kr@greenpeace.org
-or 02-3144-1997 (Weekdays, 10:00 AM - 5:00 PM / 12:00 - 1:00 PM Lunch Time) .
-
- © Greenpeace 2026
-
+    A.
+    For other inquiries, please refer to the FAQ. You can also contact the Sponsorship Management Team by email at help.kr@greenpeace.org or by phone at 02-3144-1997 (Weekdays, 10:00 AM - 5:00 PM).

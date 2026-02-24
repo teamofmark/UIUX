@@ -135,24 +135,35 @@ IX. Personal Information Protection Officer
     [내 순차 목록 - 02]
     Data subjects may contact the Personal Information Protection Officer or the Personal Information Protection Department regarding any inquiries, complaints, or remedies related to personal information protection that arise while using the Foundation's services. The Foundation will respond and process all inquiries without delay.
  
-
+[순차 목록 - 10]
 X. Methods of relief for infringement of rights
-Data subjects may seek redress for personal information infringements by filing dispute resolution or consultation requests with the Personal Information Dispute Mediation Committee, the Korea Internet & Security Agency's Personal Information Infringement Reporting Center, or other organizations. For other inquiries or reports of personal information infringements, please contact the organizations listed below.
-
-Personal Information Dispute Mediation Committee: 1833-6972 (www.kopico.go.kr)
-Personal Information Infringement Report Center: 118 (privacy.kisa.or.kr)
-National Police Agency: 182 (ecrm.police.go.kr)
+    [문단 - 01]
+    Data subjects may seek redress for personal information infringements by filing dispute resolution or consultation requests with the Personal Information Dispute Mediation Committee, the Korea Internet & Security Agency's Personal Information Infringement Reporting Center, or other organizations. For other inquiries or reports of personal information infringements, please contact the organizations listed below.
+    [내 순차 목록 - 01]
+    Personal Information Dispute Mediation Committee: 1833-6972 (www.kopico.go.kr)
+    [내 순차 목록 - 02]
+    Personal Information Infringement Report Center: 118 (privacy.kisa.or.kr)
+    [내 순차 목록 - 03]
+    National Police Agency: 182 (ecrm.police.go.kr)
  
-
+[순차 목록 - 11]
 XI. Matters concerning changes to the Personal Information Processing Policy
-This Privacy Policy applies from January 6, 2026.
-You can check our previous privacy policy below.
-- Applies from July 4, 2025 to January 5, 2026 ( click )
-
-- Applies from May 2, 2023 to July 3, 2025 ( click )
-
-- Applies from September 15, 2021 to May 1, 2023 ( click )
-
-- Applies from February 13, 2018 to September 14, 2021 ( click )
-
-- Applied from February 1, 2014 to February 12, 2018 ( Click )
+    [내 순차 목록 - 01]
+    This Privacy Policy applies from January 6, 2026.
+    [내 순차 목록 - 02]
+    You can check our previous privacy policy below.
+        [내 비순차 목록 - 01]
+        - Applies from July 4, 2025 to January 5, 2026
+        (https://www.greenpeace.org/korea/privacy-and-cookies-202507/)
+        [내 비순차 목록 - 02]
+        - Applies from May 2, 2023 to July 3, 2025
+        (https://www.greenpeace.org/korea/privacy-and-cookies-202305/)
+        [내 비순차 목록 - 03]
+        - Applies from September 15, 2021 to May 1, 2023
+        (https://www.greenpeace.org/korea/privacy-and-cookies-202109/)
+        [내 비순차 목록 - 04]
+        - Applies from February 13, 2018 to September 14, 2021
+        (https://www.greenpeace.org/korea/privacy-and-cookies-201802/)
+        [내 비순차 목록 - 05]
+        - Applied from February 1, 2014 to February 12, 2018
+        (https://www.greenpeace.org/korea/privacy-and-cookies-201402/)

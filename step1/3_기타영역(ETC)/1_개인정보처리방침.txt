@@ -24,185 +24,116 @@ I. Purpose of processing personal information, items processed, retention and us
         The Foundation processes the following personal information with the consent of the data subject.
         [표 - 2]
  
-
+[순차 목록 - 02]
 II. Matters concerning the processing of personal information of children under the age of 14
-In principle, the Foundation does not collect personal information from children under the age of 14. 
-However, if consent is required to process personal information of children under 14 years of age,
-We obtain consent from the child's legal representative. When obtaining consent from a legal representative regarding the processing of personal information of a child under the age of 14, the Foundation may request minimal information, such as the legal representative's name and mobile phone number. 
+    [내 순차 목록 - 01]
+    In principle, the Foundation does not collect personal information from children under the age of 14. 
+    [내 순차 목록 - 02]
+    However, if consent is required to process personal information of children under 14 years of age,
+    
+    [문단 - 01]
+    We obtain consent from the child's legal representative. When obtaining consent from a legal representative regarding the processing of personal information of a child under the age of 14, the Foundation may request minimal information, such as the legal representative's name and mobile phone number. 
 
- 
-
+[순차 목록 - 03]
 III. Matters concerning the procedures and methods for destroying personal information
-The Foundation destroys personal information without delay when the personal information becomes unnecessary, such as when the retention period for personal information expires or the processing purpose is achieved.
-The procedures and methods for destroying personal information are as follows:
-A. Destruction Procedure
+    [내 순차 목록 - 01]
+    The Foundation destroys personal information without delay when the personal information becomes unnecessary, such as when the retention period for personal information expires or the processing purpose is achieved.
+    [내 순차 목록 - 02]
+    The procedures and methods for destroying personal information are as follows:
+        [내 순차 목록 - 01]
+        A. Destruction Procedure
+        [문단 - 01]
+        The Foundation selects personal information for which a reason for destruction has arisen and automatically deletes the relevant personal information from the system. 
+        [내 순차 목록 - 02]
+        B. Method of destruction
+        [문단 - 01]
+        The Foundation destroys personal information recorded and stored in electronic file formats so that the records cannot be reproduced, and destroys personal information recorded and stored in paper documents by shredding or incinerating them.
 
-The Foundation selects personal information for which a reason for destruction has arisen and automatically deletes the relevant personal information from the system. 
-
-B. Method of destruction
-
-The Foundation destroys personal information recorded and stored in electronic file formats so that the records cannot be reproduced, and destroys personal information recorded and stored in paper documents by shredding or incinerating them.
-
- 
-
+[순차 목록 - 04]
 IV. Matters concerning the provision of personal information to third parties
-The Foundation may provide personal information to relevant organizations without the consent of the data subject as follows:
-Related evidence	Recipient	Purpose of provision	Items provided	Time of provision
-Personal Information Protection Act
-Article 17, Paragraph 1, Subparagraph 2,
-
-Article 15, Paragraph 1, Subparagraph 2
-
-(special provisions of the law),
-
-Article 160-3, Paragraph 2 of the Income Tax Act
-
-National Tax Service, competent tax office	Request from the Commissioner of the National Tax Service, the Commissioner of the Regional Tax Office, or the head of the competent tax office	Issuance details by donor	When creating and issuing a statement of issuance for each donor
-Personal Information Protection Act
-Article 17, Paragraph 1, Subparagraph 2,
-
-Article 15, Paragraph 1, Subparagraph 2
-
-(special provisions of the law),
-
-Article 48, Paragraph 5 of the Inheritance Tax and Gift Tax Act
-
-Tax office in charge	Report of the details of the assets of the contributor	Details of the donated property, plans for using the donated property, and progress status	Within 4 months from the end of the tax period or fiscal year
-Personal Information Protection Act
-Article 17, Paragraph 1, Subparagraph 2,
-
-Article 15, Paragraph 1, Subparagraph 2
-
-(special provisions of the law),
-
-Article 50, Paragraphs 1 and 2 of the Inheritance Tax and Gift Tax Act
-
-Accounting firm performing tax verification, competent tax office	Tax Adjustment and Corporate Tax Reporting	Sponsor's name and date of birth in the contribution report	When requesting tax adjustment and corporate tax reporting
-Personal Information Protection Act
-Article 18, Paragraph 2, Subparagraph 2
-
-(special provisions of the law),
-
-Rules on the Establishment and Supervision of Non-Profit Corporations under the Ministry of Government Legislation
-
-Article 8, Paragraph 1
-
-Ministry of Government Legislation	Request from the Minister of Government Legislation	Information about the scope of the request	At the request of the Minister of Government Legislation
-Personal Information Protection Act
-Article 18, Paragraph 2, Subparagraph 2
-
-(special provisions of the law),
-
-Article 215 of the Criminal Procedure Act
-
-Police station in charge,
-Prosecutors' Office
-
-Through a search, seizure, and verification warrant
-request
-
-Information about the scope of the request	Through a search, seizure, and verification warrant
-Upon request
-
+    [내 순차 목록 - 01]
+    The Foundation may provide personal information to relevant organizations without the consent of the data subject as follows:
+    [표 - 3]
+    [내 순차 목록 - 02]
+    Information regarding the transfer of personal information to third parties overseas is provided in 'VI. Matters concerning the overseas collection and transfer of personal information.' 
  
-
-Information regarding the transfer of personal information to third parties overseas is provided in 'VI. Matters concerning the overseas collection and transfer of personal information.' 
- 
-
+[순차 목록 - 05]
 V. Matters concerning the entrustment of personal information processing tasks
-To ensure smooth processing of personal information, the Foundation entrusts the processing of personal information as follows.
-Trustee	Consignment work
-Salesforce, Inc.	Member information integration/management and donation payment information management
-HubSpot, Inc.	Collect member signatures and send emails/SMS
-Civis, Inc.	Member information integration/storage and member data analysis
-KG Inicis Co., Ltd.	Approval and settlement of donation payments via credit card or bank transfer
-Nice Information & Communication Co., Ltd.	Approval and settlement of donation payments via credit card or CMS (automatic transfer)
-DM Line Co., Ltd.	Bulk mailings for sponsors
-Helpers High Co., Ltd., Groway Co., Ltd., Enfabi Co., Ltd.	Telemarketing to encourage sponsorship
-SureM Co., Ltd., KT Communis Co., Ltd.	Sending KakaoTalk messages to inform about the foundation's campaign news, encourage donations, and provide information on payment or donation receipts.
-DTB Korea Co., Ltd.	Planning TV marketing work to solicit sponsorship
-Open Survey Co., Ltd.	Survey collection and response data analysis
+    [내 순차 목록 - 01]
+    To ensure smooth processing of personal information, the Foundation entrusts the processing of personal information as follows.
+    [표 - 4]
+    [내 순차 목록 - 02]
+    When concluding a consignment contract, the Foundation, in accordance with Article 26 of the Personal Information Protection Act, specifies in the contract or other documents matters related to the prohibition of processing personal information for purposes other than the performance of the consigned work, technical and administrative protection measures, restrictions on re-consignment, management and supervision of the consignee, and liability for damages, and supervises whether the consignee safely processes personal information.
+    [내 순차 목록 - 03]
+    In accordance with Article 26, Paragraph 6 of the Personal Information Protection Act, when a trustee re-entrusts the company with the processing of personal information, the foundation's consent is obtained, and the details of the re-entrusted work and the trustee are disclosed through this personal information processing policy. 
+    [표-5]
  
-
-When concluding a consignment contract, the Foundation, in accordance with Article 26 of the Personal Information Protection Act, specifies in the contract or other documents matters related to the prohibition of processing personal information for purposes other than the performance of the consigned work, technical and administrative protection measures, restrictions on re-consignment, management and supervision of the consignee, and liability for damages, and supervises whether the consignee safely processes personal information.
-In accordance with Article 26, Paragraph 6 of the Personal Information Protection Act, when a trustee re-entrusts the company with the processing of personal information, the foundation's consent is obtained, and the details of the re-entrusted work and the trustee are disclosed through this personal information processing policy. 
-Sub-entrustee (sub-entrustee)	Subcontracting work
-Enpabee Co., Ltd.	Telemarketing for sponsorship solicitation
-Amazon Web Services Korea Limited	Cloud service operation for survey response data analysis (Seoul region)
-NHN Cloud Co., Ltd.	Sending emails, SMS, and KakaoTalk business messages for service usage guidance and data collection.
- 
-
+[순차 목록 - 06]
 VI. Matters concerning the overseas collection and transfer of personal information
-The Foundation transfers personal information collected from service users overseas as follows, and provides the following information regarding overseas transfer in accordance with Article 28-8, Paragraph 2 of the Personal Information Protection Act. 
+    [문단 - 01]
+    The Foundation transfers personal information collected from service users overseas as follows, and provides the following information regarding overseas transfer in accordance with Article 28-8, Paragraph 2 of the Personal Information Protection Act. 
+    [문단 - 02]
+    You may refuse to consent to this international transfer. However, this international transfer is necessary for the execution and execution of the sponsorship agreement, and if you decline, you will not be able to continue your sponsorship. If you do not wish to be transferred internationally, you can cancel your sponsorship on the website (Sponsor Page Login > Contact Us > Inquire about Sponsor Cancellation) or mobile (Sponsor Page Login > Contact Us > Inquire about Sponsor Cancellation), or request termination of your sponsorship by contacting the Sponsorship Management Team (☎02-3144-1997).
+    [표 - 6]
 
-You may refuse to consent to this international transfer. However, this international transfer is necessary for the execution and execution of the sponsorship agreement, and if you decline, you will not be able to continue your sponsorship. If you do not wish to be transferred internationally, you can cancel your sponsorship on the website (Sponsor Page Login > Contact Us > Inquire about Sponsor Cancellation) or mobile (Sponsor Page Login > Contact Us > Inquire about Sponsor Cancellation), or request termination of your sponsorship by contacting the Sponsorship Management Team (☎02-3144-1997).
-
-Related evidence	Personal information items being transferred	Previous country	Previous period and method	Recipient	Purpose of use	Personal information retention and use period
-Article 28-8, Paragraph 1, Subparagraph 3, Item 3 of the Personal Information Protection Act (Conclusion and Performance of Contracts)	Name, email address, mobile phone number, date of birth of the cardholder or cardholder, credit card number, credit card expiration date, account number, resident registration number	japan	Immediately after data entry or sponsorship. 
-Real-time transmission via encrypted API connection
-
-Salesforce Inc.	Sponsor registration, sponsor consultation, and sponsor communication for sponsorship operation management	5 years from the last sponsorship date
-Article 28-8, Paragraph 1, Item 1 of the Personal Information Protection Act (Consent)	USA	Every day at 1:00 AM KST. 
-Encrypted file transfer
-
-Civis Analytics Inc.	Improving sponsorship services through sponsorship data analysis
-Article 28-8, Paragraph 1, Item 1 of the Personal Information Protection Act (Consent)	germany	Immediately after data entry or sponsorship. 
-Transmission via encrypted API connection
-
-HubSpot Inc.	Marketing and communication through email and messaging
- 
-
+[순차 목록 - 07]
 VII. Matters concerning measures to ensure the security of personal information
-The Foundation is taking the following measures to ensure the security of personal information.
-
-Administrative measures: Establishment and implementation of internal management plans, regular employee training
-Technical measures: Management of access rights to personal information processing systems, control of unauthorized access from outside through secure mail, personal certificates, and specific programs, encryption of unique identification information, installation of in-house PC security programs (ESET).
-Physical measures: Installing access control and locking devices in computer rooms, archives, etc.
+    [문단 - 01]
+    The Foundation is taking the following measures to ensure the security of personal information.
+    [내 순차 목록 - 01]
+    Administrative measures: Establishment and implementation of internal management plans, regular employee training
+    [내 순차 목록 - 02]
+    Technical measures: Management of access rights to personal information processing systems, control of unauthorized access from outside through secure mail, personal certificates, and specific programs, encryption of unique identification information, installation of in-house PC security programs (ESET).
+    [내 순차 목록 - 03]
+    Physical measures: Installing access control and locking devices in computer rooms, archives, etc.
  
-
+[순차 목록 - 08]
 VIII. Matters concerning the rights, obligations, and exercise methods of the data subject and legal representative
-The data subject may request the Foundation to view, transfer, correct, delete, suspend processing, or withdraw consent to personal information at any time (hereinafter referred to as “exercise of rights”).
-※ Rights of children under the age of 14 must be exercised directly by their legal representatives. Minors over the age of 14 who are data subjects may exercise their rights regarding their personal information either on their own or through their legal representatives.
+    [내 순차 목록 - 01]
+    The data subject may request the Foundation to view, transfer, correct, delete, suspend processing, or withdraw consent to personal information at any time (hereinafter referred to as “exercise of rights”).
+    [문단 - 01]
+    ※ Rights of children under the age of 14 must be exercised directly by their legal representatives. Minors over the age of 14 who are data subjects may exercise their rights regarding their personal information either on their own or through their legal representatives.
+    [내 순차 목록 - 02]
+    Rights may be exercised against the Foundation in writing, by phone, e-mail, fax, or the Internet in accordance with Article 41, Paragraph 1 of the Enforcement Decree of the Personal Information Protection Act, and the Foundation will take action without delay.
+        [문단 - 01]
+        I will do it.
+        [내 순차 목록 - 01]
+        2.1. The information subject may directly view, edit, delete, suspend processing, or withdraw consent to personal information at any time through the website's 'Sponsor Page Login > My Sponsorship Information' or request access through 'Sponsor Page Login > Contact Us' or the Sponsorship Management Team (☎02-3144-1997).
+        [내 순차 목록 - 02]
+        2.2. The data subject may at any time reject automated decisions or request an explanation through the website's 'Sponsor Page Login > Contact Us' or by contacting the Sponsorship Management Team (☎02-3144-1997).
 
-Rights may be exercised against the Foundation in writing, by phone, e-mail, fax, or the Internet in accordance with Article 41, Paragraph 1 of the Enforcement Decree of the Personal Information Protection Act, and the Foundation will take action without delay.
-I will do it.
+    [내 순차 목록 - 03]
+    You may exercise your rights through a proxy, such as the data subject's legal representative or authorized representative. In this case, you must submit a power of attorney in the format of the "Notice on Personal Information Processing Methods" [Appendix 11].
+    [내 순차 목록 - 04]
+    The data subject's right to request access to and suspension of processing of personal information may be restricted under Article 35, Paragraph 4 and Article 37, Paragraph 2 of the Personal Information Protection Act.
+    [내 순차 목록 - 05]
+    If the personal information is explicitly stated as a subject of collection in other laws, you cannot request deletion of the personal information.
+    [내 순차 목록 - 06]
+    The Foundation verifies that the person exercising the rights is the person himself or a legitimate agent.
+    [내 순차 목록 - 07]
+    The information subject may exercise his/her rights to the department below. The Foundation may exercise his/her rights to the information subject.
+    [문단 - 02]
+    We will respond within 10 days (without delay in case of a transfer request) from the date of receipt of the event request.
+    Department Name: Sponsorship Department
+    Contact: 02-3144-1997
 
-2.1. The information subject may directly view, edit, delete, suspend processing, or withdraw consent to personal information at any time through the website's 'Sponsor Page Login > My Sponsorship Information' or request access through 'Sponsor Page Login > Contact Us' or the Sponsorship Management Team (☎02-3144-1997).
-
-2.2. The data subject may at any time reject automated decisions or request an explanation through the website's 'Sponsor Page Login > Contact Us' or by contacting the Sponsorship Management Team (☎02-3144-1997).
-
-You may exercise your rights through a proxy, such as the data subject's legal representative or authorized representative. In this case, you must submit a power of attorney in the format of the "Notice on Personal Information Processing Methods" [Appendix 11].
-The data subject's right to request access to and suspension of processing of personal information may be restricted under Article 35, Paragraph 4 and Article 37, Paragraph 2 of the Personal Information Protection Act.
-If the personal information is explicitly stated as a subject of collection in other laws, you cannot request deletion of the personal information.
-The Foundation verifies that the person exercising the rights is the person himself or a legitimate agent.
-The information subject may exercise his/her rights to the department below. The Foundation may exercise his/her rights to the information subject.
-We will respond within 10 days (without delay in case of a transfer request) from the date of receipt of the event request.
-
-Department Name: Sponsorship Department
-
-Contact: 02-3144-1997
-
- 
-
+[순차 목록 - 09]
 IX. Personal Information Protection Officer
-The Foundation is responsible for overall management of personal information processing and information related to personal information processing.
-To handle complaints and provide remedies to the subject, we have appointed a personal information protection manager as follows.
-
-▶ Personal Information Protection Manager 
-
-Name: SZE PANG CHEUNG 
-
-Position: Executive Director 
-
-Contact: 02-3144-1997
-
-▶ Personal Information Protection Department
-
-Department Name: Sponsorship Department
-
-Contact: 02-3144-1997
-
-Data subjects may contact the Personal Information Protection Officer or the Personal Information Protection Department regarding any inquiries, complaints, or remedies related to personal information protection that arise while using the Foundation's services. The Foundation will respond and process all inquiries without delay.
+    [내 순차 목록 - 01]
+    The Foundation is responsible for overall management of personal information processing and information related to personal information processing.
+    [문단 - 01]
+    To handle complaints and provide remedies to the subject, we have appointed a personal information protection manager as follows.
+    [문단 - 02]
+    ▶ Personal Information Protection Manager 
+    Name: SZE PANG CHEUNG
+    Position: Executive Director 
+    Contact: 02-3144-1997
+    [문단 - 03]
+    ▶ Personal Information Protection Department
+    Department Name: Sponsorship Department
+    Contact: 02-3144-1997
+    [내 순차 목록 - 02]
+    Data subjects may contact the Personal Information Protection Officer or the Personal Information Protection Department regarding any inquiries, complaints, or remedies related to personal information protection that arise while using the Foundation's services. The Foundation will respond and process all inquiries without delay.
  
 
 X. Methods of relief for infringement of rights

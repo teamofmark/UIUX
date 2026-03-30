@@ -124,17 +124,17 @@ Change starts now, with you.
 [슬라이더 - 01 자동 / 자동재생과 제어버튼 충돌 = stopAutoOnClick필요함.]
 
     [슬라이드 - 01]
-    The decision to ban whaling in Antarctica following Greenpeace's anti-whaling campaign in 1994.
-
-    [슬라이드 - 02]
     The 2024
     ruling by the Constitutional Court of Korea on the unconstitutionality of the Carbon Neutrality Basic Act marks the first climate policy lawsuit in Asia led by citizens and Greenpeace.
 
-    [슬라이드 - 03]
+    [슬라이드 - 02]
     Greenpeace's 20-year campaign to pass the UN Global Ocean Treaty in 2023
 
-    [슬라이드 - 04]
+    [슬라이드 - 03]
     Samsung's 2018 Greenpeace campaign pledged to use 100% renewable energy.
+
+    [슬라이드 - 04]
+    The decision to ban whaling in Antarctica following Greenpeace's anti-whaling campaign in 1994.
 
 [부제 - 04 - 패럴랙스 = pallarax Banner]
 This Earth Needs You

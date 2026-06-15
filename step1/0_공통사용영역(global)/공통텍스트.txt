@@ -11,6 +11,12 @@ search
 Please enter a search term.
 search
 
+[공통 후원 배너 - donateBanner]
+Make a difference with your sponsorship!
+Greenpeace operates solely on individual donations to maintain political and financial independence. It is precisely because of your support that Greenpeace is able to confront urgent environmental issues.
+
+won
+Donate
 
 [하단영역 - footer]
 

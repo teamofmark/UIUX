@@ -1,0 +1,79 @@
+[상단제목]
+Latest News Marine
+ 3 mins January 5, 2016
+Is tuna the only thing inside a can of tuna?
+[작성자부분]
+Text: Greenpeace Seoul Office
+
+[문단 - 배경강조]
+Korea is one of the world's leading tuna consuming nations. Koreans' love for tuna is truly special. But is tuna the only thing inside the cans of tuna we enjoy?
+
+[문단 - 01]
+Tuna kimchi stew, tuna fried rice, braised tuna and tofu, tuna salad... These are dishes that frequently appear on our dinner tables because they are easy to make and delicious. Loved by people of all ages, tuna is truly an amazing ingredient.
+
+[문단 - 02]
+However, tuna, a food so familiar to us, has recently been attracting global attention for a slightly different reason. This is due to the destruction of marine ecosystems caused by indiscriminate overfishing and bycatch, as well as the reality of horrific human rights abuses taking place on board.
+
+[문단 - 03]
+Everyone, did you know that the title of Greenpeace’s latest series is “Is It Just Tuna?”? This title carries a special meaning. When we open a can of tuna, all we see inside is tuna meat caught in the distant ocean and processed cleanly. However, behind that lies a story of fishermen’s tears, an emptying ocean, and a marine ecosystem in crisis.
+
+[영상]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFpGw-WGMeo?si=XUP4af85Q7zOFkwD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[부제 - 01]
+Endangered tuna species
+
+[문단 - 01]
+Among fishermen, tuna are said to be called the "outlaw of the sea" or the "bull of the sea." Some species are over 2 meters long, easily exceeding the height of an adult male, and weigh twice as much as a cow. When hunting, their swimming speed is said to be a whopping 160 km/h, faster than Ryu Hyun-jin's pitching or a cheetah running across the grasslands.
+
+[문단 - 02]
+The tuna we know is broadly classified into seven species. There is the albacore, which is popular in the United States; the yellowfin tuna, which is loved by Europeans; the skipjack tuna, which is easily found in canned tuna in Korea; the bluefin tuna, which is popular as a premium sashimi ingredient (Atlantic bluefin tuna, Southern bluefin tuna, and Pacific bluefin tuna); and finally, the bigeye tuna, which can be easily found in sushi restaurants.
+
+[문단 - 03]
+In the list of endangered animals published by the International Union for Conservation of Nature and Natural Resources, also known as the “Red List,” the Atlantic bluefin tuna and the Southern bluefin tuna are classified as “endangered” and “critically endangered,” respectively, while the Pacific bluefin tuna and bigeye tuna are classified as “vulnerable.”
+
+[이미지 - 01]
+[이미지 - 01 설명]
+Burmese fishermen in temporary shelter in Ambon port, Indonesia. Hundreds of trafficked workers are waiting to be sent back home, with many facing an uncertain future. The forced labor and trafficking survivors interviewed by Greenpeace Southeast Asia detailed beatings and food deprivation for anyone who tried to escape. The tuna fishermen on their vessels were forced to work 20-22 hour days for little to no pay, often deprived of basic necessities like showers.
+
+[문단 - 04]
+The extinction of tuna is not merely a matter of being unable to eat tuna. As scientists have consistently warned, the disappearance of tuna, a top predator, could disrupt the balance of the food chain and lead to the destruction of the marine ecosystem.
+
+[부제 - 02]
+Destructive methods of catching tuna
+    [문단 - 01]
+    <b>- Purse Seine Vessels, the Main Culprits of Bycatch, and the Death Trap FAD</b>
+
+    [문단 - 02]
+    A major contributor to the extinction of tuna is the Fish Aggregating Device (FAD), known as a "death trap." Created by exploiting the characteristic of fish to be instinctively attracted to floating objects as shelters, these devices serve to gather scattered schools of fish into one place.
+
+    [이미지 - 02]
+
+    [문단 - 03]
+    When enough fish gather to fill the net, the purse seine fishing vessel sets up a massive net measuring 2 km in length and 200 m in depth. This covers an area equivalent to about 60 football fields and reaches the height of three Ferris wheels.
+
+    [문단 - 04]
+    Such nets catch the entire surrounding 'small ecosystem' indiscriminately, including young skipjack tuna, juvenile bigeye tuna and yellowfin tuna whose populations are rapidly declining, as well as endangered sharks, rays, whales, sea turtles, dolphins, and even seabirds. This indiscriminate casting of large nets and catching whatever gets caught is called bycatch.
+
+    [문단 - 인용부]
+    “A can of tuna contains not only tuna, but almost every sea creature that appears in ‘Finding Nemo’ .”
+    - Charles Clover, from ‘The Empty Sea’ -
+
+[부제 - 03]
+Scrooge on the Sea, Longline Fishing Boat
+    [문단 - 01]
+    In addition to purse seine vessels, tuna fishing boats include ships known as "longline vessels." While the aforementioned purse seine vessels and fish aggregating devices (FADs) are the primary culprits behind bycatch, longline vessels specialize in overfishing. Longline vessels, which can catch live fish by attaching multiple branch lines with hooks to a single long main line, feature lines that can reach up to 150 km in length and are equipped with over 3,000 hooks.
+
+    [이미지 - 03]
+
+[부제 - 04]
+The dark side of giant global tuna corporations
+    [문단 - 01]
+    The problems caused by giant tuna corporations are not limited to ecosystem destruction resulting from overfishing and bycatch. By dominating the market, they threaten the livelihoods of impoverished island nations and are facing international condemnation for excessive fishing practices that disregard the human rights and safety of crew members.
+
+[하단 영역]
+View previous post
+
+<a href="https://www.greenpeace.org/korea/news/feature-story/2/2015/human_rights_story1/">Part 1: Lost Human Rights Above the Deep Blue Sea</a>
+<a href="https://www.greenpeace.org/korea/news/feature-story/2/2015/human_rights_story11/">Part 2: A Race for Mutual Destruction at Sea</a>
+<a href="https://www.greenpeace.org/korea/news/feature-story/2/2015/ocean_story3/">Part 3: South Korea, a Fisheries Powerhouse—Are We Okay?</a>

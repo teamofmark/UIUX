@@ -34,35 +34,50 @@ Mom, I can see microplastics! (feat. microscope)
     Furthermore, various chemicals were detected in both the packaging and the food, and even the widely known endocrine disruptors were found in Gerber yogurt products. Gerber and Happy Baby Organics pouches are products that parents trust and purchase at major supermarkets and online stores worldwide. However, no one could have imagined that they contained so much microplastic. Due to the lack of alternatives to plastic, our children are left defenseless against danger.
 
  
-
+[부제 - 02]
 The process by which microplastics penetrate our bodies
-It is already well known that easily produced and discarded plastic packaging pollutes the Earth and exacerbates biodiversity loss and the climate crisis. Plastic packaging, which accounts for approximately 40% of global plastic production and waste, is already becoming a heavy burden on the planet.
+    [문단 - 01]
+    It is already well known that easily produced and discarded plastic packaging pollutes the Earth and exacerbates biodiversity loss and the climate crisis. Plastic packaging, which accounts for approximately 40% of global plastic production and waste, is already becoming a heavy burden on the planet.
 
-Plastic pollution has now extended beyond the Earth and infiltrated our loved ones and even our bodies. Scientific research is proving that single-use plastics pose a serious threat to health. This Greenpeace report investigated not only microplastics but also the leakage of hazardous chemicals. As a result, 81 chemicals were provisionally identified in Danone's fruit purees and 111 in Nestlé's dairy-based purees, and these same substances were detected in the packaging materials of the products.
+    [문단 - 02]
+    Plastic pollution has now extended beyond the Earth and infiltrated our loved ones and even our bodies. Scientific research is proving that single-use plastics pose a serious threat to health. This Greenpeace report investigated not only microplastics but also the leakage of hazardous chemicals. As a result, <b>81 chemicals</b> were provisionally identified in Danone's fruit purees and 111 in Nestlé's dairy-based purees, and these same substances were detected in the packaging materials of the products.
 
+    [이미지 - 02]
 
-
-Due to the current lack of strong and proactive government regulations, companies are indiscriminately using plastic packaging for their own convenience and profit. These easily produced single-use plastics eventually break down into microplastics and spread across the globe. They then travel along the food chain, entering our bodies through air, water, and food, or, as in the case of this pouch product, through direct ingestion. The only way to escape the plastic crisis surrounding us is to reduce plastic packaging itself .
+    [문단 - 03]
+    Due to the current lack of strong and proactive government regulations, companies are indiscriminately using plastic packaging for their own convenience and profit. These easily produced single-use plastics eventually break down into microplastics and spread across the globe. They then travel along the food chain, entering our bodies through air, water, and food, or, as in the case of this pouch product, through direct ingestion. The only way to escape the plastic crisis surrounding us is <b>to reduce plastic packaging itself .</b>
 
  
-
+[부제 - 03]
 Plastic pollution is now a health issue for 'me and my child'
-Nestlé and Danone, the companies investigated this time , account for a staggering 40% of the global baby food market and produce over 1 million tons of plastic packaging annually. The results of this irresponsible production are mostly discarded, polluting the Earth.
+    [문단 - 01]
+    Nestlé and Danone, the companies investigated this time , <b>account for a staggering 40% of the global baby food market</b> and produce over 1 million tons of plastic packaging annually. The results of this irresponsible production are mostly discarded, polluting the Earth.
 
-Why are companies able to produce plastic so unregulated? Korea is no exception. Plastic is being produced endlessly because policies focus on processing already generated waste rather than regulating it at the production stage. And the damage falls squarely on us in the present and on future generations.
+    [문단 - 02] 
+    Why are companies able to produce plastic so unregulated? Korea is no exception. Plastic is being produced endlessly because policies focus on processing already generated waste rather than regulating it at the production stage. And the damage falls squarely on us in the present and on future generations.
 
-The surest way to solve this problem is to produce and consume less plastic . To achieve this, strong distribution regulations are required both domestically and internationally, and companies must also seriously recognize the threat that food packaging materials pose to consumer health.
+    [문단 - 03]
+    The surest way to solve this problem is <b>to produce and consume less plastic</b> . To achieve this, strong distribution regulations are required both domestically and internationally, and companies must also seriously recognize the threat that food packaging materials pose to consumer health.
 
-Greenpeace demands on government and corporations
+    [소제 - 01]
+    Greenpeace demands on government and corporations
+        [비 순차 목록 - 01]
+        The government must stop the use of hazardous plastics and chemicals based on the precautionary principle.
 
-The government must stop the use of hazardous plastics and chemicals based on the precautionary principle.
-Companies must set goals and commit to achieving “zero release” of microplastics and hazardous chemicals from packaging to food.
-You must stop giving consumers false reassurance regarding "microwave-safe" containers.
-We must stop using single-use and plastic packaging materials and introduce a reuse system.
-In a world flooded with plastic, it may feel that individual action alone has its limits. However, if we raise our voices together, we can certainly bring about change.
+        Companies must set goals and commit to achieving “zero release” of microplastics and hazardous chemicals from packaging to food.
 
-Polluting corporations must be held accountable for the plastic problem, and governments must implement strong policies and systemic changes to protect the health of people and the planet. Please join Greenpeace in demanding powerful policy changes so that our government and the world can end the plastic era!
+        You must stop giving consumers false reassurance regarding "microwave-safe" containers.
 
-Download English Report on the Big Problem Inside a Small Plastic
+        We must stop using single-use and plastic packaging materials and introduce a reuse system.
 
-Join the Plastic Campaign
+    [문단 - 04]
+    In a world flooded with plastic, it may feel that individual action alone has its limits. However, if we raise our voices together, we can certainly bring about change.
+
+    [문단 - 05]
+    Polluting corporations must be held accountable for the plastic problem, and governments must implement strong policies and systemic changes to protect the health of people and the planet. Please join Greenpeace in demanding powerful policy changes so that our government and the world can end the plastic era!
+
+[하단 영역]
+    <a href="https://www.greenpeace.org/static/planet4-international-stateless/2026/05/04081d9d-hidden-risks-of-baby-food-plastic-pouches.pdf?_gl=1*rd1vyi*_up*MQ..*_ga*MjE1MjE5NzE4LjE3ODAyNzQ4MDM.*_ga_94MRTN8HG4*czE3ODAyNzQ4MDQkbzEkZzAkdDE3ODAyNzQ4MDQkajYwJGwwJGg0NjcyNjA2OTU." target="_blank">Download English Report on the Big Problem Inside a Small Plastic</a>
+
+    [버튼 - 서명]
+    Join the Plastic Campaign

@@ -1,0 +1,75 @@
+[기존로그인페이지]
+[상단제목]
+welcome!
+
+[문단 - 01]
+The Supporter page was updated in September 2021. Even if you have a previous login history, please make sure to verify your status as a first-time supporter on the new page . Once you have verified your status as a first-time supporter, you can now log in.
+
+[문단 - 02]
+If you received backer verification via mobile phone, please enter your mobile phone number; if you received it via email, please enter your email address. You can receive a verification code to log in.
+
+[문단 - 03]
+The verification text message will be received from the international number +044 7873 077777. If you have reported international text messages as spam, please unblock them.
+
+[입력부 - 이메일 or 핸드폰번호]
+Email address / Mobile phone number
+
+[버튼 - 인증코드 송출]
+Get login verification code
+
+Click here to go to Supporter <a href="최초인증페이지">'First Verification' !</a>
+
+
+
+--------------------------------------------------------------------------------
+[최초 인증 페이지]
+
+[상단제목]
+Existing subscribers also need initial verification.
+
+[문단 - 01]
+Please accurately enter the name and email or mobile phone number you provided when signing up for sponsorship.
+
+[문단 - 02]
+Authentication Method: The authentication method you select will also be used for login authentication, so please select an authentication method you use frequently.
+
+[탭 - 핸드폰번호 인증]
+* name
+name
+* Mobile phone number
+0XX-XXXX-XXXX / 0XX-XXX-XXXX
+
+[탭 - 이메일 인증]
+* name
+name
+* Email address
+Email address
+
+[하단영역]
+[버튼 - 최초인증코드]
+Get sponsor verification code
+
+If you have already verified as an initial backer, please click here to <a href="기존로그인페이지">log in.</a>
+
+--------------------------------------------------------------------------------
+
+[인증 페이지]
+
+[상단제목]
+Verification Code
+[6자리 숫자입력칸]
+
+[버튼 - 인증]
+Verificate
+
+--------------------------------------------------------------------------------
+
+[인증 완료 페이지]
+[상단제목]
+Congratulations!
+
+[인증완료 메시지]
+your [name] is completed.
+
+[버튼 - 메인페이지]
+go to greenpeace Main Page

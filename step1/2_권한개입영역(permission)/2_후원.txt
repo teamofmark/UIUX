@@ -1,0 +1,179 @@
+[상단 제목]
+Greenpeace
+works solely for the Earth.
+[탭 메뉴]
+    [공통 영역]
+        [스테퍼 - stepper]
+        Select Donation Amount
+        Enter sponsorship information
+        [금액 옵션]
+        30,000 won
+        20,000 won
+        15,000 won
+        [버튼-후원]
+        Donate
+        [하단-설명]
+        Credit card information is encrypted and protected in SSL security mode.
+[정기 후원]
+    [후원방식]
+    Regular sponsorship
+    [설명]
+    You can protect nature through field surveys, policy proposals, and citizen campaigns.
+    [금액 직접입력]
+    Manual input (Minimum amount: 10,000 won)
+[일시 후원]
+    [후원방식]
+    One-time donation
+    [설명]
+    Your valuable donation is used for campaign activities for the Earth.
+    [금액 직접입력]
+    Manual input (Minimum amount: 30,000 won)
+
+[부제 - 01]
+Please protect it before it's too late.
+    [문단 사진 구성 - 01]
+    [이미지 - 01]
+    [소제 - 01]
+    collapsing nature
+    [문단]
+    Forests are disappearing, the oceans are filled with trash, and wildlife is going extinct.
+
+    [문단 사진 구성 - 02]
+    [이미지 - 02]
+    [소제 - 02]
+    Plastic waste covering the world
+    [문단]
+    Behind plastic pollution, there are still companies shirking their responsibility. Even at this very moment, excessive amounts of plastic are being produced and discarded.
+
+    [문단 사진 구성 - 03]
+    [이미지 - 03]
+    [소제 - 03]
+    People in need of help
+    [문단]
+    From elderly couples who lost their homes in wildfires to vulnerable groups losing their lives in torrential rains, those least responsible for the climate crisis are suffering the greatest damage.
+
+[부제 - 02]
+Why is your sponsorship needed?
+    [문단 사진 구성 - 01]
+    [이미지 - 04]
+    [소제 - 01]
+    1.5 Average temperature increased by °C
+    [문단]
+    Since 1950, the Earth has been heating up faster than ever before, and extreme weather events such as heatwaves and heavy rains are becoming more frequent.
+
+    [문단 사진 구성 - 02]
+    [이미지 - 05]
+    [소제 - 02]
+    730 10,000 tons of plastic waste
+    [문단]
+    South Korea already generated 7.3 million tons of plastic waste in 2022 alone, and this problem is causing an increasingly larger crisis.
+
+    [문단 사진 구성 - 03]
+    [이미지 - 06]
+    [소제 - 03]
+    3 Marine protected areas of less than %
+    [문단]
+    Even the ocean, which is most important for responding to the climate crisis, is institutionally protected in only a very small portion.
+[문단 - 01]
+We need you to save the Earth.
+
+[버튼 - 후원하기]
+Donate
+
+[부제 - 03]
+Change begins now, with you.
+
+[슬라이더 - 01 자동 / 자동재생과 제어버튼 충돌 = stopAutoOnClick 필수추가 (add to required opt) / randomStart 끄기(false)]
+
+    [슬라이드 - 01]
+    Decision to ban Antarctic whaling following Greenpeace's anti-whaling activities in 1994
+
+    [슬라이드 - 02]
+    Samsung's pledge to use 100% renewable energy through a 2018
+    Greenpeace campaign
+
+    [슬라이드 - 03]
+    UN Global Ocean Treaty Passed in 2023
+    Through Greenpeace's 20-Year Campaign
+
+    [슬라이드 - 04]
+    The Constitutional Court of Korea's 2024
+    ruling declaring the Framework Act on Carbon Neutrality unconstitutional, Asia's first climate policy lawsuit led by citizens and Greenpeace
+
+[패럴랙스 = pallarax Banner]
+[부제 - 04]
+This Earth needs you
+    [문단 - 01]
+    The international environmental organization Greenpeace is at the forefront of environmental protection.
+    However, the Earth remains in peril.
+    Donations are a great help in solving the urgent climate crisis and protecting citizens, animals, and nature in vulnerable regions.
+    [버튼 - 후원하기]
+    Donate
+
+[부제 - 05]
+The change your support makes
+    [문단 사진 구성 - 01]
+    [이미지 - 07]
+    [소제 - 01]
+    30,000 won per month
+    [문단]
+    We are carrying out a long-term project to prevent the climate crisis and protect forests and oceans.
+
+    [문단 사진 구성 - 02]
+    [이미지 - 08]
+    [소제 - 02]
+    20,000 won per month
+    [문단]
+    We protect nature and prevent corporate environmental destruction through field investigations, environmental policy proposals, and civic action.
+
+    [문단 사진 구성 - 03]
+    [이미지 - 09]
+    [소제 - 03]
+    15,000 won per month
+    [문단]
+    We are raising awareness about environmental issues and launching a campaign for a sustainable environment.
+
+    [문단 사진 구성 - 04]
+    [이미지 - 10]
+    [소제 - 04]
+    One-time donation
+    [문단]
+    A one-time donation is a great help, but regular donations create deeper and longer-lasting change.
+    
+    [버튼 - 후원하기]
+    Donate
+
+
+slide 2 of 3
+donor3
+Jang Bit-na
+For a better me and the Earth
+As I get older, immediate convenience and my own interests become more important, but I am grateful for Greenpeace's activities, which have allowed me to reflect on myself.
+
+GP_donor_1_1
+Im Gyeong-seon
+A heart for the child
+After meeting the child, I wanted to see, share, and protect even the smallest things together. I started sponsoring in 2018. I hope it is not too late.
+
+GP_donor_2
+Yoo Hyun-sang
+Work that can be done little by little for a long time
+I saw Greenpeace activists stepping forward bravely. As an ordinary citizen, it can feel vague to know what you can do. Since I can help through donations, I have continued to support them little by little for a long time.
+
+donor3
+Jang Bit-na
+For a better me and the Earth
+As I get older, immediate convenience and my own interests become more important, but I am grateful for Greenpeace's activities, which have allowed me to reflect on myself.
+
+GP_donor_1_1
+Im Gyeong-seon
+A heart for the child
+After meeting the child, I wanted to see, share, and protect even the smallest things together. I started sponsoring in 2018. I hope it is not too late.
+
+Donate
+Greenpeace Donation FAQs
+Q1. When is the first donation amount processed after the donation is completed?
+Q2. What happens if the payment due date falls on a public holiday or weekend?
+Q3. Can minors make a donation?
+Q4. Can I receive tax credit benefits for year-end tax settlement if I make a donation?
+Q5. How can I inquire about sponsorship?

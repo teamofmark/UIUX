@@ -139,41 +139,47 @@ The change your support makes
     One-time donation
     [문단]
     A one-time donation is a great help, but regular donations create deeper and longer-lasting change.
-    
+
+    [버튼 - 후원하기]
+    Donate
+
+[슬라이더 - 02 / 슬라이드 커서 오버시 중지 필요 (AutoHover true)]
+
+    [슬라이드 - 01]
+    Jang Bit-na
+    For a better me and the Earth
+    As I get older, immediate convenience and my own interests become more important, but I am grateful for Greenpeace's activities, which have allowed me to reflect on myself.
+
+    [슬라이드 - 02]
+    Im Gyeong-seon
+    A heart for the child
+    After meeting the child, I wanted to see, share, and protect even the smallest things together. I started sponsoring in 2018. I hope it is not too late.
+
+    [슬라이드 - 03]
+    Yoo Hyun-sang
+    Work that can be done little by little for a long time
+    I saw Greenpeace activists stepping forward bravely. As an ordinary citizen, it can feel vague to know what you can do. Since I can help through donations, I have continued to support them little by little for a long time.
+
     [버튼 - 후원하기]
     Donate
 
 
-slide 2 of 3
-donor3
-Jang Bit-na
-For a better me and the Earth
-As I get older, immediate convenience and my own interests become more important, but I am grateful for Greenpeace's activities, which have allowed me to reflect on myself.
-
-GP_donor_1_1
-Im Gyeong-seon
-A heart for the child
-After meeting the child, I wanted to see, share, and protect even the smallest things together. I started sponsoring in 2018. I hope it is not too late.
-
-GP_donor_2
-Yoo Hyun-sang
-Work that can be done little by little for a long time
-I saw Greenpeace activists stepping forward bravely. As an ordinary citizen, it can feel vague to know what you can do. Since I can help through donations, I have continued to support them little by little for a long time.
-
-donor3
-Jang Bit-na
-For a better me and the Earth
-As I get older, immediate convenience and my own interests become more important, but I am grateful for Greenpeace's activities, which have allowed me to reflect on myself.
-
-GP_donor_1_1
-Im Gyeong-seon
-A heart for the child
-After meeting the child, I wanted to see, share, and protect even the smallest things together. I started sponsoring in 2018. I hope it is not too late.
-
-Donate
 Greenpeace Donation FAQs
 Q1. When is the first donation amount processed after the donation is completed?
+    A. 
+    The first donation amount will be charged immediately upon completion of the donation. The recurring payment date is the 10th of every month; if payment is not made, it will be re-charged on the 15th, 20th, or 27th of the same month.
 Q2. What happens if the payment due date falls on a public holiday or weekend?
+    A.
+    [비 순차 목록 - 01]
+    If automatic transfers fall on a public holiday or weekend, payment will be processed on the next banking business day. (*If the day before the payment due date is a holiday for the Seoul Office, the payment may be delayed by one day.)
+    [비 순차 목록 - 02]
+    Credit card payments are processed on the payment date regardless of holidays, but the system processing may extend the payment to the next business day.
 Q3. Can minors make a donation?
+    A.
+    Sponsors under the age of 14 may make a donation after obtaining consent from a legal representative. For minors aged 14 to 19, regular donations of 30,000 won or less and one-time donations of 300,000 won or less are permitted.
 Q4. Can I receive tax credit benefits for year-end tax settlement if I make a donation?
+    A.
+    You can receive tax credit benefits for the year-end tax settlement. Please be sure to enter your personal information for the year-end tax settlement after signing up. To maintain its independence, Greenpeace does not accept sponsorship from the government or corporations.
 Q5. How can I inquire about sponsorship?
+    A.
+    For other inquiries, please refer to the FAQ. You can also contact the Sponsorship Management Team via email at help.kr@greenpeace.org or by phone at 02-3144-1997 (weekdays 10:00 AM–5:00 PM).

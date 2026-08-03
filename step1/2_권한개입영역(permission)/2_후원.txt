@@ -74,11 +74,6 @@ Why is your sponsorship needed?
     3 Marine protected areas of less than %
     [문단]
     Even the ocean, which is most important for responding to the climate crisis, is institutionally protected in only a very small portion.
-[문단 - 01]
-We need you to save the Earth.
-
-[버튼 - 후원하기]
-Donate
 
 [부제 - 03]
 Change begins now, with you.

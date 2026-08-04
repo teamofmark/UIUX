@@ -95,16 +95,6 @@ Change begins now, with you.
     The Constitutional Court of Korea's 2024
     ruling declaring the Framework Act on Carbon Neutrality unconstitutional, Asia's first climate policy lawsuit led by citizens and Greenpeace
 
-[패럴랙스 = pallarax Banner]
-[부제 - 04]
-This Earth needs you
-    [문단 - 01]
-    The international environmental organization Greenpeace is at the forefront of environmental protection.
-    However, the Earth remains in peril.
-    Donations are a great help in solving the urgent climate crisis and protecting citizens, animals, and nature in vulnerable regions.
-    [버튼 - 후원하기]
-    Donate
-
 [부제 - 05]
 The change your support makes
     [문단 사진 구성 - 01]
@@ -138,6 +128,16 @@ The change your support makes
     [버튼 - 후원하기]
     Donate
 
+[패럴랙스 = pallarax Banner]
+[부제 - 04]
+This Earth needs you
+    [문단 - 01]
+    The international environmental organization Greenpeace is at the forefront of environmental protection.
+    However, the Earth remains in peril.
+    Donations are a great help in solving the urgent climate crisis and protecting citizens, animals, and nature in vulnerable regions.
+    [버튼 - 후원하기]
+    Donate
+    
 [슬라이더 - 02 / 슬라이드 커서 오버시 중지 필요 (AutoHover true)]
 
     [슬라이드 - 01]

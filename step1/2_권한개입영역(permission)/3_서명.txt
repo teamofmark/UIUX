@@ -1,0 +1,71 @@
+[상단제목]
+Please protect the ocean suffering from climate change and marine pollution.
+
+[문단 - 01]
+Thanks to the power of global citizens, 60 countries have finally ratified the Global Ocean Treaty (BBNJ). Now, please join us in raising your voices to encourage governments to expand Marine Protected Areas (MPAs).
+
+[이름 입력]
+name *
+[이메일 입력]
+email *
+[전화번호 입력]
+phone number *
+
+[동의 체크]
+(Required) Must be 14 years of age or older / Consent to receive Greenpeace sponsorship information / View consent to collection/use of personal information
+
+[버튼 - 서명하기]
+Together
+
+[문단 사진 구성 - 01]
+[이미지 - 01]
+[부제 - 01]
+Can you feel the signal the sea is sending us right now?
+[문단 - 01]
+Rising water temperatures, marine debris, overfishing, and now the threat of deep-sea mining… the ocean is reaching its limit.
+[문단 - 02]
+Greenpeace is documenting the scenes of this crisis unfolding around the world and listening to the signals the ocean is sending.
+[문단 - 03]
+What signals are the world's oceans sending us right now?
+
+[부제 - 02]
+Signals sent by the sea
+
+[문단 사진 구성 - 01]
+[이미지 - 02]
+[소제 - 01]
+White dying coral
+[문단]
+The vibrant, colorful coral is losing its color and dying off, turning white due to rising water temperatures. The death of coral could lead beyond the collapse of marine habitats to the breakdown of the Earth's food chain and ecosystem.
+
+[이미지 - 03]
+[소제 - 02]
+sperm whales whose feeding activities are disrupted
+[문단]
+The noise and sound waves from the engines and propellers of large ships disrupt the communication and foraging activities of marine animals such as sperm whales, threatening their survival.
+
+[이미지 - 04]
+[소제 - 03]
+An unknown world in crisis, the deep sea
+[문단]
+If massive mining equipment is deployed into the deep sea, the seabed will be destroyed, and as a result, the deep-sea ecosystem will suffer damage that will be irreversible for hundreds of years. The deep sea is not a target for resource development, but the last bastion that must be protected for the survival of humanity.
+
+[부제 - 03]
+Please join the petition now and demand marine protected areas together.
+    [문단]
+    In September 2025, 60 countries worldwide ratified the Global Ocean Treaty (BBNJ), which is set to officially enter into force in 120 days. This marks a historic milestone toward the international community's commitment (30x30) to designate 30% of the high seas as marine protected areas by 2030. Furthermore, the Seoul office produced the documentary film *Signal* with approximately 3,000 citizens, leading to its theatrical release and raising awareness of the importance of ocean protection. Now, to urge governments around the world to take action to expand marine protected areas in the high seas and halt deep-sea mining, Greenpeace, together with citizens, demands the following:
+
+[비 순차 목록 - 01]
+The Korean government must actively participate in international decision-making processes to designate new marine protected areas on the high seas prior to the 1st Conference of Parties on Oceans and Seas (expected to be held in 2026).
+[비 순차 목록 - 02]
+New marine protected areas on the high seas must be designated as highly protected areas where destructive development activities are completely prohibited and human access is strictly restricted.
+[비 순차 목록 - 03]
+The Korean government must take the lead in expanding international marine protected areas .
+
+[패럴랙스]
+[부제]
+Please join us in designating a Marine Protected Area!
+[문단]
+Your voice changes the future of the Earth.
+[버튼 - 서명]
+Together

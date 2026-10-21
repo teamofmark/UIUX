@@ -1,28 +1,37 @@
-
-[상단제목]
+[상단제목 - heading]
 Ocean
 oceans
 
+[문단 구성 - paragraph]
 A healthy ocean
 It is not only a habitat for over 700,000 species of life, but is also necessary for the maintenance of the Earth. The ocean, which provides food and jobs to billions of people, is crucial for the health and well-being of humanity.
 
+[슬라이더 - slider / 자동 (auto), 표시기능(indicator)]
 However, the ocean is currently facing greater danger than ever before due to plastic waste, destructive fishing, and rising sea surface temperatures. If we work together, we will be able to protect the ocean, countless marine creatures, and people.
 
+[카테고리목록 - list Category]
 Greenpeace activities
 Greenpeace calls for the designation of marine protected areas. We are working to protect the ocean by opposing destructive fishing and campaigning to prevent plastic pollution and the climate crisis.
 
+[항목 - 1 / item - 1]
 Marine protection
 Ocean
 194 post updates
+[항목 - 2 / item - 2]
 Plastic Zero
 Ocean
 166 post updates
+[항목 - 3 / item - 3]
 Eradicate illegal fishing
 Ocean
 6 post updates
+
+[배너 서명 - sign Banner]
 Join the change now
 Please protect the ocean with us now.
 Sign Now
+
+[연대별 업적 - history or about us]
 1970 ~ 1989
 Opposition to whaling
 In 1975, the first whale conservation activity began by blocking Russian whaling ships in rubber boats.
@@ -66,13 +75,11 @@ The reason I stood on the ocean for 300 hours opposing deep-sea mining
 March 15, 2023
 Ocean
 UN Global Ocean Treaty, We Finally Did It!
+
+[배너 문단 - 1 = paragraph Banner]
 Destructive fishing is destroying the oceans, and countless marine creatures are on the brink of extinction. Scientists warn that the extinction of marine life in the next century could be the worst since the age of the dinosaurs. However, together, we can protect the blue oceans and precious lives.
 
-Make a difference with your sponsorship!
-Greenpeace operates solely on individual donations to maintain political and financial independence. It is precisely because of your support that Greenpeace is able to confront urgent environmental issues.
-
-one
-Donate
+[챌린지 목록 - Challenge List / 참여방식 토글(Toggle)]
 Daily Challenge for the Earth
 Ocean
 
@@ -105,17 +112,20 @@ Do not use facial cleansers or household products containing microplastics
  
 Join in
 
+[문단 구성 - 2 ]
 There has never been a more important time to protect the ocean than now. Please join us right now.
+
+[최신기사 목록 - Related News List]
 Related News
+
 Latest marine news
 '46 Nations Supporting Deep-Sea Mining vs. Lawless Corporation TMC': The International Community Has Jointly Applied the Brakes
-
 5 minutes September 4, 2026
+
 Marine Press Release
 [Statement] "Korean Government Must Review Korea Zinc-TMC Investment and Declare Support for Halting Deep-Sea Mining"
-
 5 minutes July 27, 2026
+
 Marine Press Release
 [Statement] ISA Puts Brakes on Deep-Sea Mining… Adoption of Mining Regulations Fails
-
 5 minutes March 23, 2026
